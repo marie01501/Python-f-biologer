@@ -1,0 +1,1000 @@
+﻿Channel ID,Channel Label,Well ID,Well Label,Compound ID,Compound Name,Experiment,Dose [pM],Dose Label,Spike Count,Spike Rate [Hz],Burst Count,Mean Burst Duration [µs],Mean Burst Spike Count,Mean Burst Spike Rate [Hz],Percentage Spikes in Burst,Mean Interburst Interval [µs],Active Channel,Network Burst Count,Mean Network Burst Duration [µs],Mean Network Burst Spike Count,Mean Network Burst Spike Rate [Hz],Percentage Spikes in Network Burst,Mean Network Interburst Interval [µs]
+131,21,11,A12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,108,0.18,0,,,,0,,FALSE,0,,,,,
+128,12,11,A12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,96,0.16,0,,,,0,20424216.67,FALSE,0,,,,,
+130,32,11,A12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,100,0.167,0,,,,0,,FALSE,0,,,,,
+29,21,1,A2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,91,0.152,0,,,,0,41146965.39,FALSE,0,,,,,
+26,12,1,A2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,89,0.148,0,,,,0,25372430,FALSE,0,,,,,
+28,32,1,A2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,85,0.142,0,,,,0,23307906.82,FALSE,0,,,,,
+35,21,3,A4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,62,0.103,0,,,,0,,FALSE,0,,,,,
+32,12,3,A4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,85,0.142,0,,,,0,,FALSE,0,,,,,
+34,32,3,A4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,79,0.132,0,,,,0,14590979.73,FALSE,0,,,,,
+35,21,3,A4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,91,0.152,0,,,,0,,FALSE,0,,,,,
+32,12,3,A4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,95,0.158,0,,,,0,,FALSE,0,,,,,
+34,32,3,A4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,83,0.138,0,,,,0,,FALSE,0,,,,,
+35,21,3,A4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,78,0.13,0,,,,0,,FALSE,0,,,,,
+32,12,3,A4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,80,0.133,0,,,,0,91817200,FALSE,0,,,,,
+34,32,3,A4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,76,0.127,0,,,,0,,FALSE,0,,,,,
+35,21,3,A4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+32,12,3,A4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,73,0.122,0,,,,0,,FALSE,0,,,,,
+34,32,3,A4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,86,0.143,0,,,,0,,FALSE,0,,,,,
+35,21,3,A4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,99,0.165,0,,,,0,,FALSE,0,,,,,
+32,12,3,A4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,61,0.102,0,,,,0,,FALSE,0,,,,,
+34,32,3,A4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,84,0.14,0,,,,0,437950,FALSE,0,,,,,
+35,21,3,A4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+32,12,3,A4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,84,0.14,0,,,,0,80376400,FALSE,0,,,,,
+34,32,3,A4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,66,0.11,0,,,,0,23679871.88,FALSE,0,,,,,
+72,21,4,A5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,69,0.115,0,,,,0,15439120.37,FALSE,0,,,,,
+73,12,4,A5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+75,32,4,A5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,75,0.125,0,,,,0,,FALSE,0,,,,,
+72,21,4,A5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,62,0.103,0,,,,0,,FALSE,0,,,,,
+73,12,4,A5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+75,32,4,A5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+72,21,4,A5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,54,0.09,0,,,,0,,FALSE,0,,,,,
+73,12,4,A5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,76,0.127,0,,,,0,,FALSE,0,,,,,
+75,32,4,A5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,73,0.122,0,,,,0,,FALSE,0,,,,,
+72,21,4,A5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,86,0.143,0,,,,0,,FALSE,0,,,,,
+73,12,4,A5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+75,32,4,A5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,51,0.085,0,,,,0,,FALSE,0,,,,,
+72,21,4,A5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,71,0.118,0,,,,0,,FALSE,0,,,,,
+73,12,4,A5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,66,0.11,0,,,,0,,FALSE,0,,,,,
+75,32,4,A5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,77,0.128,0,,,,0,253400,FALSE,0,,,,,
+72,21,4,A5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,68,0.113,0,,,,0,,FALSE,0,,,,,
+73,12,4,A5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,86,0.143,0,,,,0,,FALSE,0,,,,,
+75,32,4,A5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+77,21,5,A6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,81,0.135,0,,,,0,36211762.5,FALSE,0,,,,,
+74,12,5,A6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,96,0.16,0,,,,0,39732575,FALSE,0,,,,,
+76,32,5,A6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,86,0.143,0,,,,0,193017950,FALSE,0,,,,,
+77,21,5,A6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,84,0.14,0,,,,0,3457970,FALSE,0,,,,,
+74,12,5,A6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,93,0.155,0,,,,0,2001145.852,FALSE,0,,,,,
+76,32,5,A6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,92,0.153,0,,,,0,2120472.422,FALSE,0,,,,,
+77,21,5,A6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,85,0.142,0,,,,0,877289.229,FALSE,0,,,,,
+74,12,5,A6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,90,0.15,0,,,,0,781072.315,FALSE,0,,,,,
+76,32,5,A6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,88,0.147,0,,,,0,1219067.029,FALSE,0,,,,,
+77,21,5,A6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+74,12,5,A6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,83,0.138,0,,,,0,8553691.791,FALSE,0,,,,,
+76,32,5,A6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,80,0.133,0,,,,0,59767725,FALSE,0,,,,,
+77,21,5,A6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,77,0.128,0,,,,0,3371976.087,FALSE,0,,,,,
+74,12,5,A6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,78,0.13,0,,,,0,11153012.16,FALSE,0,,,,,
+76,32,5,A6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,77,0.128,0,,,,0,2980150,FALSE,0,,,,,
+77,21,5,A6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,70,0.117,0,,,,0,9162471.875,FALSE,0,,,,,
+74,12,5,A6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,97,0.162,0,,,,0,4638856.364,FALSE,0,,,,,
+76,32,5,A6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,79,0.132,0,,,,0,4256690.833,FALSE,0,,,,,
+78,21,6,A7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,94,0.157,0,,,,0,,FALSE,0,,,,,
+79,12,6,A7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,73,0.122,0,,,,0,15462850,FALSE,0,,,,,
+81,32,6,A7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+78,21,6,A7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,76,0.127,0,,,,0,,FALSE,0,,,,,
+79,12,6,A7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,53,0.088,0,,,,0,,FALSE,0,,,,,
+81,32,6,A7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,47,0.078,0,,,,0,,FALSE,0,,,,,
+78,21,6,A7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,79,0.132,0,,,,0,,FALSE,0,,,,,
+79,12,6,A7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,76,0.127,0,,,,0,54722887.5,FALSE,0,,,,,
+81,32,6,A7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,52,0.087,0,,,,0,,FALSE,0,,,,,
+78,21,6,A7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,67,0.112,0,,,,0,137300,FALSE,0,,,,,
+79,12,6,A7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,72,0.12,0,,,,0,,FALSE,0,,,,,
+81,32,6,A7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,39,0.065,0,,,,0,145550,FALSE,0,,,,,
+78,21,6,A7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+79,12,6,A7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,63,0.105,0,,,,0,,FALSE,0,,,,,
+81,32,6,A7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,36,0.06,0,,,,0,,FALSE,0,,,,,
+78,21,6,A7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,52,0.087,0,,,,0,,FALSE,0,,,,,
+79,12,6,A7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,61,0.102,0,,,,0,117050,FALSE,0,,,,,
+81,32,6,A7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,38,0.063,0,,,,0,,FALSE,0,,,,,
+114,21,22,B11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,68,0.113,0,,,,0,2252146.429,FALSE,0,,,,,
+115,12,22,B11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,76,0.127,0,,,,0,3749413.333,FALSE,0,,,,,
+117,32,22,B11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,103,0.172,0,,,,0,2278154.545,FALSE,0,,,,,
+114,21,22,B11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,55,0.092,0,,,,0,,FALSE,0,,,,,
+115,12,22,B11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+117,32,22,B11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+114,21,22,B11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,79,0.132,0,,,,0,,FALSE,0,,,,,
+115,12,22,B11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,51,0.085,0,,,,0,,FALSE,0,,,,,
+117,32,22,B11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,87,0.145,0,,,,0,,FALSE,0,,,,,
+114,21,22,B11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,74,0.123,0,,,,0,,FALSE,0,,,,,
+115,12,22,B11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,60,0.1,0,,,,0,,FALSE,0,,,,,
+117,32,22,B11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,60,0.1,0,,,,0,,FALSE,0,,,,,
+114,21,22,B11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,55,0.092,0,,,,0,,FALSE,0,,,,,
+115,12,22,B11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,54,0.09,0,,,,0,,FALSE,0,,,,,
+117,32,22,B11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,77,0.128,0,,,,0,,FALSE,0,,,,,
+114,21,22,B11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,73,0.122,0,,,,0,,FALSE,0,,,,,
+115,12,22,B11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,50,0.083,0,,,,0,,FALSE,0,,,,,
+117,32,22,B11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,53,0.088,0,,,,0,,FALSE,0,,,,,
+17,21,13,B2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+14,12,13,B2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,363,0.605,0,,,,0,,FALSE,0,,,,,
+16,32,13,B2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,73,0.122,0,,,,0,,FALSE,0,,,,,
+17,21,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,58,0.097,0,,,,0,,FALSE,0,,,,,
+14,12,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,275,0.458,0,,,,0,,FALSE,0,,,,,
+16,32,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+17,21,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,50,0.083,0,,,,0,,FALSE,0,,,,,
+14,12,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,296,0.493,0,,,,0,,FALSE,0,,,,,
+16,32,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,63,0.105,0,,,,0,,FALSE,0,,,,,
+17,21,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,55,0.092,0,,,,0,,FALSE,0,,,,,
+14,12,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,255,0.425,0,,,,0,,FALSE,0,,,,,
+16,32,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,83,0.138,0,,,,0,,FALSE,0,,,,,
+17,21,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,43,0.072,0,,,,0,611528.238,FALSE,0,,,,,
+14,12,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,297,0.495,0,,,,0,,FALSE,0,,,,,
+16,32,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,72,0.12,0,,,,0,,FALSE,0,,,,,
+17,21,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,1431,2.385,0,,,,0,2937730.06,TRUE,0,,,,,
+14,12,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,291,0.485,0,,,,0,1562096.414,FALSE,0,,,,,
+16,32,13,B2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,95,0.158,0,,,,0,2023632.719,FALSE,0,,,,,
+18,21,14,B3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,90,0.15,0,,,,0,1488300,FALSE,0,,,,,
+19,12,14,B3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,64,0.107,0,,,,0,,FALSE,0,,,,,
+21,32,14,B3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,66,0.11,0,,,,0,,FALSE,0,,,,,
+18,21,14,B3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,75,0.125,0,,,,0,,FALSE,0,,,,,
+19,12,14,B3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,73,0.122,0,,,,0,,FALSE,0,,,,,
+21,32,14,B3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+18,21,14,B3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,89,0.148,0,,,,0,16924785.19,FALSE,0,,,,,
+19,12,14,B3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,70,0.117,0,,,,0,21992342.11,FALSE,0,,,,,
+21,32,14,B3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,77,0.128,0,,,,0,59026975,FALSE,0,,,,,
+18,21,14,B3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,85,0.142,0,,,,0,267387.5,FALSE,0,,,,,
+19,12,14,B3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,71,0.118,0,,,,0,,FALSE,0,,,,,
+21,32,14,B3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,61,0.102,0,,,,0,143675,FALSE,0,,,,,
+18,21,14,B3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+19,12,14,B3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,77,0.128,0,,,,0,,FALSE,0,,,,,
+21,32,14,B3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,63,0.105,0,,,,0,,FALSE,0,,,,,
+18,21,14,B3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,94,0.157,0,,,,0,21057200,FALSE,0,,,,,
+19,12,14,B3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,73,0.122,0,,,,0,,FALSE,0,,,,,
+21,32,14,B3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,53,0.088,0,,,,0,,FALSE,0,,,,,
+23,21,15,B4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,60,0.1,0,,,,0,,FALSE,0,,,,,
+20,12,15,B4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,60,0.1,0,,,,0,,FALSE,0,,,,,
+22,32,15,B4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,82,0.137,0,,,,0,,FALSE,0,,,,,
+23,21,15,B4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,86,0.143,0,,,,0,372366.667,FALSE,0,,,,,
+20,12,15,B4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,66,0.11,0,,,,0,62977750,FALSE,0,,,,,
+22,32,15,B4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,58,0.097,0,,,,0,,FALSE,0,,,,,
+23,21,15,B4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,57,0.095,0,,,,0,2538320,FALSE,0,,,,,
+20,12,15,B4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,66,0.11,0,,,,0,,FALSE,0,,,,,
+22,32,15,B4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+23,21,15,B4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,72,0.12,0,,,,0,382847500,FALSE,0,,,,,
+20,12,15,B4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,80,0.133,0,,,,0,42247375,FALSE,0,,,,,
+22,32,15,B4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,72,0.12,0,,,,0,10350660,FALSE,0,,,,,
+23,21,15,B4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,58,0.097,0,,,,0,,FALSE,0,,,,,
+20,12,15,B4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,74,0.123,0,,,,0,,FALSE,0,,,,,
+22,32,15,B4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,54,0.09,0,,,,0,,FALSE,0,,,,,
+23,21,15,B4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,71,0.118,0,,,,0,,FALSE,0,,,,,
+20,12,15,B4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,77,0.128,0,,,,0,120450,FALSE,0,,,,,
+22,32,15,B4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+60,21,16,B5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,70,0.117,0,,,,0,1628197.119,FALSE,0,,,,,
+61,12,16,B5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,64,0.107,0,,,,0,1717087.885,FALSE,0,,,,,
+63,32,16,B5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,62,0.103,0,,,,0,1643588.961,FALSE,0,,,,,
+60,21,16,B5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,44,0.073,0,,,,0,5888254.762,FALSE,0,,,,,
+61,12,16,B5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,36,0.06,0,,,,0,2167462.028,FALSE,0,,,,,
+63,32,16,B5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,41,0.068,0,,,,0,1019823.577,FALSE,0,,,,,
+60,21,16,B5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,96,0.16,0,,,,0,2770778.857,FALSE,0,,,,,
+61,12,16,B5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,46,0.077,0,,,,0,2908523.939,FALSE,0,,,,,
+63,32,16,B5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,84,0.14,0,,,,0,2811506.845,FALSE,0,,,,,
+60,21,16,B5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,1991,3.318,4,1156425,118,109.025,23.707,5242483.75,TRUE,0,,,,,
+61,12,16,B5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,95,0.158,0,,,,0,4869685.455,FALSE,0,,,,,
+63,32,16,B5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,105,0.175,0,,,,0,4820353.54,FALSE,0,,,,,
+60,21,16,B5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,71,0.118,0,,,,0,4359880.672,FALSE,0,,,,,
+61,12,16,B5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,54,0.09,0,,,,0,4344608.898,FALSE,0,,,,,
+63,32,16,B5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,83,0.138,0,,,,0,4352080.932,FALSE,0,,,,,
+60,21,16,B5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,3319,5.532,12,2255983.333,104.25,45.351,37.692,877205.656,TRUE,0,,,,,
+61,12,16,B5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,52,0.087,0,,,,0,33496626.92,FALSE,0,,,,,
+63,32,16,B5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,71,0.118,0,,,,0,15334057.58,FALSE,0,,,,,
+65,21,17,B6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,79,0.132,0,,,,0,15103366.67,FALSE,0,,,,,
+62,12,17,B6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,166,0.277,0,,,,0,10546285.42,FALSE,0,,,,,
+64,32,17,B6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,132,0.22,0,,,,0,443903450,FALSE,0,,,,,
+65,21,17,B6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,56,0.093,0,,,,0,,FALSE,0,,,,,
+62,12,17,B6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,130,0.217,0,,,,0,,FALSE,0,,,,,
+64,32,17,B6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,76,0.127,0,,,,0,6909680,FALSE,0,,,,,
+65,21,17,B6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,60,0.1,0,,,,0,,FALSE,0,,,,,
+62,12,17,B6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,208,0.347,0,,,,0,,FALSE,0,,,,,
+64,32,17,B6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,98,0.163,0,,,,0,,FALSE,0,,,,,
+65,21,17,B6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,61,0.102,0,,,,0,19122552,FALSE,0,,,,,
+62,12,17,B6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+64,32,17,B6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,88,0.147,0,,,,0,,FALSE,0,,,,,
+65,21,17,B6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,93,0.155,0,,,,0,,FALSE,0,,,,,
+62,12,17,B6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,159,0.265,0,,,,0,,FALSE,0,,,,,
+64,32,17,B6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,83,0.138,0,,,,0,,FALSE,0,,,,,
+65,21,17,B6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,51,0.085,0,,,,0,43753800,FALSE,0,,,,,
+62,12,17,B6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,82,0.137,0,,,,0,19288890,FALSE,0,,,,,
+64,32,17,B6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,80,0.133,0,,,,0,,FALSE,0,,,,,
+66,21,18,B7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,75,0.125,0,,,,0,2882446.154,FALSE,0,,,,,
+67,12,18,B7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,97,0.162,0,,,,0,8225644.203,FALSE,0,,,,,
+69,32,18,B7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,62,0.103,0,,,,0,2889163.115,FALSE,0,,,,,
+66,21,18,B7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,73,0.122,0,,,,0,386300,FALSE,0,,,,,
+67,12,18,B7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+69,32,18,B7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,58,0.097,0,,,,0,,FALSE,0,,,,,
+66,21,18,B7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,80,0.133,0,,,,0,257082850,FALSE,0,,,,,
+67,12,18,B7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,70,0.117,0,,,,0,39268800,FALSE,0,,,,,
+69,32,18,B7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,47,0.078,0,,,,0,,FALSE,0,,,,,
+66,21,18,B7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,91,0.152,0,,,,0,29258052.78,FALSE,0,,,,,
+67,12,18,B7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,69,0.115,0,,,,0,108023337.5,FALSE,0,,,,,
+69,32,18,B7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,47,0.078,0,,,,0,18526450,FALSE,0,,,,,
+66,21,18,B7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,68,0.113,0,,,,0,46261370,FALSE,0,,,,,
+67,12,18,B7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,87,0.145,0,,,,0,64060060,FALSE,0,,,,,
+69,32,18,B7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,49,0.082,0,,,,0,,FALSE,0,,,,,
+66,21,18,B7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,90,0.15,0,,,,0,3278816.556,FALSE,0,,,,,
+67,12,18,B7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,72,0.12,0,,,,0,40054362.5,FALSE,0,,,,,
+69,32,18,B7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,61,0.102,0,,,,0,,FALSE,0,,,,,
+108,21,20,B9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,101,0.168,0,,,,0,4433312.5,FALSE,0,,,,,
+109,12,20,B9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,64,0.107,0,,,,0,,FALSE,0,,,,,
+111,32,20,B9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,96,0.16,0,,,,0,,FALSE,0,,,,,
+108,21,20,B9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,81,0.135,0,,,,0,,FALSE,0,,,,,
+109,12,20,B9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,60,0.1,0,,,,0,,FALSE,0,,,,,
+111,32,20,B9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,73,0.122,0,,,,0,,FALSE,0,,,,,
+108,21,20,B9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,60,0.1,0,,,,0,,FALSE,0,,,,,
+109,12,20,B9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,56,0.093,0,,,,0,613483.333,FALSE,0,,,,,
+111,32,20,B9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,38,0.063,0,,,,0,,FALSE,0,,,,,
+108,21,20,B9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,86,0.143,0,,,,0,41045750,FALSE,0,,,,,
+109,12,20,B9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,50,0.083,0,,,,0,,FALSE,0,,,,,
+111,32,20,B9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,42,0.07,0,,,,0,,FALSE,0,,,,,
+108,21,20,B9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+109,12,20,B9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+111,32,20,B9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,50,0.083,0,,,,0,,FALSE,0,,,,,
+108,21,20,B9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,63,0.105,0,,,,0,,FALSE,0,,,,,
+109,12,20,B9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,47,0.078,0,,,,0,,FALSE,0,,,,,
+111,32,20,B9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,77,0.128,0,,,,0,,FALSE,0,,,,,
+137,21,33,C10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,118,0.197,0,,,,0,20997161.54,FALSE,0,,,,,
+134,12,33,C10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,865,1.442,0,,,,0,19421018.33,TRUE,0,,,,,
+136,32,33,C10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,449,0.748,0,,,,0,13047881.82,FALSE,0,,,,,
+137,21,33,C10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+134,12,33,C10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,660,1.1,0,,,,0,,TRUE,0,,,,,
+136,32,33,C10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,290,0.483,0,,,,0,127559912.5,FALSE,0,,,,,
+137,21,33,C10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,105,0.175,0,,,,0,,FALSE,0,,,,,
+134,12,33,C10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,747,1.245,0,,,,0,,TRUE,0,,,,,
+136,32,33,C10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,309,0.515,0,,,,0,,FALSE,0,,,,,
+137,21,33,C10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,24,0.04,0,,,,0,,FALSE,0,,,,,
+134,12,33,C10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,47,0.078,0,,,,0,,FALSE,0,,,,,
+136,32,33,C10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,47,0.078,0,,,,0,,FALSE,0,,,,,
+137,21,33,C10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,90,0.15,0,,,,0,,FALSE,0,,,,,
+134,12,33,C10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,692,1.153,0,,,,0,,TRUE,0,,,,,
+136,32,33,C10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,294,0.49,0,,,,0,,FALSE,0,,,,,
+137,21,33,C10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,34,0.057,0,,,,0,,FALSE,0,,,,,
+134,12,33,C10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,172,0.287,0,,,,0,,FALSE,0,,,,,
+136,32,33,C10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,58,0.097,0,,,,0,,FALSE,0,,,,,
+138,21,34,C11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,79,0.132,0,,,,0,64990950,FALSE,0,,,,,
+139,12,34,C11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,88,0.147,0,,,,0,64766150,FALSE,0,,,,,
+141,32,34,C11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,95,0.158,0,,,,0,64946000,FALSE,0,,,,,
+138,21,34,C11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,53,0.088,0,,,,0,,FALSE,0,,,,,
+139,12,34,C11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,54,0.09,0,,,,0,,FALSE,0,,,,,
+141,32,34,C11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,57,0.095,0,,,,0,,FALSE,0,,,,,
+138,21,34,C11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,83,0.138,0,,,,0,,FALSE,0,,,,,
+139,12,34,C11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,39,0.065,0,,,,0,,FALSE,0,,,,,
+141,32,34,C11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,50,0.083,0,,,,0,,FALSE,0,,,,,
+138,21,34,C11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,55,0.092,0,,,,0,,FALSE,0,,,,,
+139,12,34,C11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,77,0.128,0,,,,0,,FALSE,0,,,,,
+141,32,34,C11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,104,0.173,0,,,,0,,FALSE,0,,,,,
+138,21,34,C11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,68,0.113,0,,,,0,863450,FALSE,0,,,,,
+139,12,34,C11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,39,0.065,0,,,,0,811550,FALSE,0,,,,,
+141,32,34,C11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,53,0.088,0,,,,0,850800,FALSE,0,,,,,
+138,21,34,C11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,56,0.093,0,,,,0,,FALSE,0,,,,,
+139,12,34,C11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,63,0.105,0,,,,0,,FALSE,0,,,,,
+141,32,34,C11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,61,0.102,0,,,,0,,FALSE,0,,,,,
+41,21,25,C2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,168,0.28,0,,,,0,,FALSE,0,,,,,
+38,12,25,C2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,2545,4.242,0,,,,0,85547050,TRUE,0,,,,,
+40,32,25,C2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,278,0.463,0,,,,0,128625,FALSE,0,,,,,
+41,21,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,200,0.333,0,,,,0,,FALSE,0,,,,,
+38,12,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,2693,4.488,0,,,,0,,TRUE,0,,,,,
+40,32,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,301,0.502,0,,,,0,11216033.33,FALSE,0,,,,,
+41,21,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,175,0.292,0,,,,0,,FALSE,0,,,,,
+38,12,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,2920,4.867,0,,,,0,140378000,TRUE,0,,,,,
+40,32,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,346,0.577,0,,,,0,,FALSE,0,,,,,
+41,21,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,171,0.285,0,,,,0,,FALSE,0,,,,,
+38,12,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,3022,5.037,0,,,,0,,TRUE,0,,,,,
+40,32,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,263,0.438,0,,,,0,,FALSE,0,,,,,
+41,21,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,163,0.272,0,,,,0,33065225,FALSE,0,,,,,
+38,12,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,3017,5.028,0,,,,0,290575,TRUE,0,,,,,
+40,32,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,308,0.513,0,,,,0,,FALSE,0,,,,,
+41,21,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,150,0.25,0,,,,0,339933.333,FALSE,0,,,,,
+38,12,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,3087,5.145,0,,,,0,495383.333,TRUE,0,,,,,
+40,32,25,C2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,313,0.522,0,,,,0,1740850,FALSE,0,,,,,
+90,21,30,C7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,84,0.14,0,,,,0,2813418.671,FALSE,0,,,,,
+91,12,30,C7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,58,0.097,0,,,,0,1196878.881,FALSE,0,,,,,
+93,32,30,C7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,75,0.125,0,,,,0,3371673.05,FALSE,0,,,,,
+90,21,30,C7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,66,0.11,0,,,,0,,FALSE,0,,,,,
+91,12,30,C7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,65,0.108,0,,,,0,,FALSE,0,,,,,
+93,32,30,C7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,66,0.11,0,,,,0,,FALSE,0,,,,,
+90,21,30,C7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,82,0.137,0,,,,0,9255407.759,FALSE,0,,,,,
+91,12,30,C7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,50,0.083,0,,,,0,27007690,FALSE,0,,,,,
+93,32,30,C7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,70,0.117,0,,,,0,33809108.33,FALSE,0,,,,,
+90,21,30,C7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,64,0.107,0,,,,0,86057450,FALSE,0,,,,,
+91,12,30,C7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,65,0.108,0,,,,0,,FALSE,0,,,,,
+93,32,30,C7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,73,0.122,0,,,,0,14041491.67,FALSE,0,,,,,
+90,21,30,C7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,49,0.082,0,,,,0,,FALSE,0,,,,,
+91,12,30,C7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,55,0.092,0,,,,0,,FALSE,0,,,,,
+93,32,30,C7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,66,0.11,0,,,,0,,FALSE,0,,,,,
+90,21,30,C7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,58,0.097,0,,,,0,,FALSE,0,,,,,
+91,12,30,C7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,50,0.083,0,,,,0,,FALSE,0,,,,,
+93,32,30,C7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,91,0.152,0,,,,0,,FALSE,0,,,,,
+132,21,32,C9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,188,0.313,0,,,,0,1361722.388,FALSE,10,2497605,361.2,48.315,20.445,60174766.67
+133,12,32,C9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,14556,24.26,28,4284264.286,394.25,85.777,75.838,3738629.955,TRUE,10,2497605,361.2,48.315,20.445,60174766.67
+135,32,32,C9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,2923,4.872,10,1578340,68.8,43.824,23.537,9421818.018,TRUE,10,2497605,361.2,48.315,20.445,60174766.67
+132,21,32,C9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,178,0.297,0,,,,0,6512318.75,FALSE,0,,,,,
+133,12,32,C9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,13460,22.433,48,2473111.458,156.208,58.151,55.706,4334238,TRUE,0,,,,,
+135,32,32,C9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,1962,3.27,0,,,,0,7141182.857,TRUE,0,,,,,
+132,21,32,C9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,105,0.175,0,,,,0,14617139.19,FALSE,0,,,,,
+133,12,32,C9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,13797,22.995,42,3247336.905,214.048,59.598,65.159,2976326.452,TRUE,0,,,,,
+135,32,32,C9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,1793,2.988,0,,,,0,7638238.028,TRUE,0,,,,,
+132,21,32,C9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,37,0.062,0,,,,0,13994276.92,FALSE,0,,,,,
+133,12,32,C9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,80,0.133,0,,,,0,3483275,FALSE,0,,,,,
+135,32,32,C9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,68,0.113,0,,,,0,3332426.923,FALSE,0,,,,,
+132,21,32,C9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,137,0.228,0,,,,0,,FALSE,0,,,,,
+133,12,32,C9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,12963,21.605,35,3447934.286,262,69.672,70.74,5421252.186,TRUE,0,,,,,
+135,32,32,C9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,2066,3.443,0,,,,0,48673311.11,TRUE,0,,,,,
+132,21,32,C9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,51,0.085,0,,,,0,,FALSE,0,,,,,
+133,12,32,C9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,5074,8.457,2,1699625,70,41.341,2.759,7138548.958,TRUE,0,,,,,
+135,32,32,C9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,726,1.21,0,,,,0,72031466.67,TRUE,0,,,,,
+0,21,36,D1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,50,0.083,0,,,,0,30034873.33,FALSE,0,,,,,
+1,12,36,D1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,57,0.095,0,,,,0,18562943.75,FALSE,0,,,,,
+3,32,36,D1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,50,0.083,0,,,,0,59712708.33,FALSE,0,,,,,
+0,21,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,38,0.063,0,,,,0,4588815.426,FALSE,0,,,,,
+1,12,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,71,0.118,0,,,,0,4904417.742,FALSE,0,,,,,
+3,32,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,35,0.058,0,,,,0,6033563.636,FALSE,0,,,,,
+0,21,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,42,0.07,0,,,,0,1939267.708,FALSE,0,,,,,
+1,12,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,110,0.183,0,,,,0,2214421.233,FALSE,0,,,,,
+3,32,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,76,0.127,0,,,,0,1640197.866,FALSE,0,,,,,
+0,21,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,57,0.095,0,,,,0,1181018.217,FALSE,0,,,,,
+1,12,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,81,0.135,0,,,,0,1310460.63,FALSE,0,,,,,
+3,32,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,48,0.08,0,,,,0,1456437.719,FALSE,0,,,,,
+0,21,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,22,0.037,0,,,,0,328525,FALSE,0,,,,,
+1,12,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,48,0.08,0,,,,0,1289050,FALSE,0,,,,,
+3,32,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,28,0.047,0,,,,0,,FALSE,0,,,,,
+0,21,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,65,0.108,0,,,,0,64275950,FALSE,0,,,,,
+1,12,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,107,0.178,0,,,,0,417750150,FALSE,0,,,,,
+3,32,36,D1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,49,0.082,0,,,,0,103132320,FALSE,0,,,,,
+101,21,45,D10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,25351,42.252,42,4622373.81,490.714,86.296,81.299,2437066.667,TRUE,25,6378316,1810,90.317,74.881,17993229.17
+98,12,45,D10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,12125,20.208,24,3807918.75,362.833,92.697,71.819,6861023.958,TRUE,25,6378316,1810,90.317,74.881,17993229.17
+100,32,45,D10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,22953,38.255,43,3858576.744,406.512,85.049,76.156,2518475.073,TRUE,25,6378316,1810,90.317,74.881,17993229.17
+101,21,45,D10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,23339,38.898,66,3182796.212,272.97,68.182,77.193,1953218.329,TRUE,29,4555694.828,1201.586,75.69,64.249,15980416.07
+98,12,45,D10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,12594,20.99,20,4067155,411.65,98.706,65.372,9776084.615,TRUE,29,4555694.828,1201.586,75.69,64.249,15980416.07
+100,32,45,D10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,18303,30.505,41,3179398.78,298.634,76.937,66.896,2027105.085,TRUE,29,4555694.828,1201.586,75.69,64.249,15980416.07
+101,21,45,D10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,12968,21.613,37,2657859.459,211.946,70.763,60.472,5946825.281,TRUE,21,3864571.429,942.286,78.757,55.527,24943400
+98,12,45,D10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,10785,17.975,21,3909257.143,336.476,83.641,65.517,16664291.27,TRUE,21,3864571.429,942.286,78.757,55.527,24943400
+100,32,45,D10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,11884,19.807,25,2927538,249.56,79.397,52.499,2661334.583,TRUE,21,3864571.429,942.286,78.757,55.527,24943400
+101,21,45,D10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,138,0.23,0,,,,0,144050,FALSE,0,,,,,
+98,12,45,D10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,480,0.8,0,,,,0,122050,FALSE,0,,,,,
+100,32,45,D10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,1135,1.892,0,,,,0,21598228.85,TRUE,0,,,,,
+101,21,45,D10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,26548,44.247,58,4299191.379,376.862,70.629,82.334,3711033.117,TRUE,29,6379781.034,1504.069,72.459,72.633,14139471.43
+98,12,45,D10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,12030,20.05,20,4418877.5,398.9,87.081,66.318,12521342.68,TRUE,29,6379781.034,1504.069,72.459,72.633,14139471.43
+100,32,45,D10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,21475,35.792,58,3064274.138,275.552,72.813,74.421,2243875.578,TRUE,29,6379781.034,1504.069,72.459,72.633,14139471.43
+101,21,45,D10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,10269,17.115,22,2143286.364,136.364,62.539,29.214,2824532.542,TRUE,16,3629615.625,657.625,59.894,34.957,35309296.67
+98,12,45,D10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,6851,11.418,16,2629356.25,168.5,64.804,39.352,13839677.5,TRUE,16,3629615.625,657.625,59.894,34.957,35309296.67
+100,32,45,D10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,12980,21.633,28,2655285.714,189,64.683,40.77,2839394.29,TRUE,16,3629615.625,657.625,59.894,34.957,35309296.67
+102,21,46,D11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,2534,4.223,0,,,,0,10327128.18,TRUE,0,,,,,
+103,12,46,D11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,3078,5.13,0,,,,0,5407476.442,TRUE,0,,,,,
+105,32,46,D11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,694,1.157,0,,,,0,58159911.11,TRUE,0,,,,,
+102,21,46,D11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,1094,1.823,0,,,,0,375950,TRUE,0,,,,,
+103,12,46,D11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,1204,2.007,0,,,,0,72561025,TRUE,0,,,,,
+105,32,46,D11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,539,0.898,0,,,,0,35019093.75,TRUE,0,,,,,
+102,21,46,D11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,1336,2.227,0,,,,0,,TRUE,0,,,,,
+103,12,46,D11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,1774,2.957,0,,,,0,175633066.7,TRUE,0,,,,,
+105,32,46,D11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,598,0.997,0,,,,0,25533795.24,TRUE,0,,,,,
+102,21,46,D11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,30,0.05,0,,,,0,,FALSE,0,,,,,
+103,12,46,D11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,30,0.05,0,,,,0,,FALSE,0,,,,,
+105,32,46,D11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,36,0.06,0,,,,0,,FALSE,0,,,,,
+102,21,46,D11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,1499,2.498,0,,,,0,,TRUE,0,,,,,
+103,12,46,D11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,1858,3.097,0,,,,0,,TRUE,0,,,,,
+105,32,46,D11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,500,0.833,0,,,,0,83934050,TRUE,0,,,,,
+102,21,46,D11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,259,0.432,0,,,,0,,FALSE,0,,,,,
+103,12,46,D11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,815,1.358,0,,,,0,,TRUE,0,,,,,
+105,32,46,D11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,337,0.562,0,,,,0,57389350,FALSE,0,,,,,
+107,21,47,D12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,301,0.502,0,,,,0,2499920.968,FALSE,0,,,,,
+104,12,47,D12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,21394,35.657,53,3968052.83,282.151,62.43,69.898,1881783.551,TRUE,0,,,,,
+106,32,47,D12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,75,0.125,0,,,,0,2563181.818,FALSE,0,,,,,
+107,21,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,128,0.213,0,,,,0,34682531.25,FALSE,0,,,,,
+104,12,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,15170,25.283,43,3203650,191.465,56.142,54.272,2844271.207,TRUE,0,,,,,
+106,32,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,57,0.095,0,,,,0,32941026.92,FALSE,0,,,,,
+107,21,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,167,0.278,0,,,,0,,FALSE,0,,,,,
+104,12,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,17828,29.713,47,3215395.745,218.064,62.345,57.488,6964432.292,TRUE,0,,,,,
+106,32,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+107,21,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,134,0.223,0,,,,0,16136357.14,FALSE,0,,,,,
+104,12,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,18983,31.638,60,3250575,202.317,56.245,63.947,2151214.464,TRUE,0,,,,,
+106,32,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,55,0.092,0,,,,0,43166505.56,FALSE,0,,,,,
+107,21,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,107,0.178,0,,,,0,133579500,FALSE,0,,,,,
+104,12,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,13058,21.763,46,2252448.913,129.261,54.552,45.535,4208200,TRUE,0,,,,,
+106,32,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,35,0.058,0,,,,0,335979700,FALSE,0,,,,,
+107,21,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,106,0.177,0,,,,0,,FALSE,0,,,,,
+104,12,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,8353,13.922,27,1961009.259,93.296,47.147,30.157,3391430.731,TRUE,0,,,,,
+106,32,47,D12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,48,0.08,0,,,,0,1348350,FALSE,0,,,,,
+5,21,37,D2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,21500,35.833,34,4277917.647,499,95.571,78.912,3248895.865,TRUE,20,6756442.5,2133.15,107.982,74.363,23127157.9
+2,12,37,D2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,26105,43.508,36,4852066.667,613.194,101.599,84.562,2789408.416,TRUE,20,6756442.5,2133.15,107.982,74.363,23127157.9
+4,32,37,D2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,9766,16.277,20,3023530,359.75,119.256,73.674,17566608.48,TRUE,20,6756442.5,2133.15,107.982,74.363,23127157.9
+5,21,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,20111,33.518,29,4214555.172,490.483,98.363,70.727,5010037.047,TRUE,17,4040955.882,988.353,81.906,59.83,32559475
+2,12,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,399,0.665,0,,,,0,,FALSE,17,4040955.882,988.353,81.906,59.83,32559475
+4,32,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,7573,12.622,17,2652485.294,311.882,118.527,70.012,25369500,TRUE,17,4040955.882,988.353,81.906,59.83,32559475
+5,21,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,13687,22.812,21,3707619.048,457.81,115.726,70.242,11300553.72,TRUE,18,3427680.556,740.278,72.297,67.509,29612708.82
+2,12,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,392,0.653,0,,,,0,,FALSE,18,3427680.556,740.278,72.297,67.509,29612708.82
+4,32,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,5659,9.432,18,2233972.222,236.111,106.841,75.102,30813385.29,TRUE,18,3427680.556,740.278,72.297,67.509,29612708.82
+5,21,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,16599,27.665,28,3680142.857,427.429,98.948,72.101,4290701.57,TRUE,18,3936861.111,853.167,72.65,66.283,30048588.24
+2,12,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,370,0.617,0,,,,0,,FALSE,18,3936861.111,853.167,72.65,66.283,30048588.24
+4,32,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,6200,10.333,18,2517461.111,255.222,102.492,74.097,26080369.05,TRUE,18,3936861.111,853.167,72.65,66.283,30048588.24
+5,21,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,18450,30.75,25,4463036,525.28,103.59,71.176,3094633.793,TRUE,18,4521702.778,1391.889,103.797,67.469,28899214.71
+2,12,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,11437,19.062,18,3578430.556,413.333,116.03,65.052,3783183.015,TRUE,18,4521702.778,1391.889,103.797,67.469,28899214.71
+4,32,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,7247,12.078,18,2643183.333,289.944,109.909,72.016,19470645.46,TRUE,18,4521702.778,1391.889,103.797,67.469,28899214.71
+5,21,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,18525,30.875,25,4528634,557.2,112.496,75.196,8879221.875,TRUE,20,4619530,1389.8,101.266,73.391,25552807.9
+2,12,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,12064,20.107,20,3669680,431.15,118.46,71.477,15744759.09,TRUE,20,4619530,1389.8,101.266,73.391,25552807.9
+4,32,37,D2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,7285,12.142,20,2482022.5,274.75,111.639,75.429,23459051.09,TRUE,20,4619530,1389.8,101.266,73.391,25552807.9
+6,21,38,D3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,15209,25.348,27,3542788.889,387.148,97.752,68.729,4512044.159,TRUE,19,6231478.947,1762.579,98.252,68.655,25624272.22
+7,12,38,D3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,6518,10.863,19,2663760.526,237.053,89.334,69.101,10693648.98,TRUE,19,6231478.947,1762.579,98.252,68.655,25624272.22
+9,32,38,D3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,27052,45.087,37,5645363.514,622.676,88.985,85.166,2576775.169,TRUE,19,6231478.947,1762.579,98.252,68.655,25624272.22
+6,21,38,D3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,14616,24.36,21,4047092.857,447.667,100.642,64.32,6322102.532,TRUE,20,4794930,1337.4,87.573,62.053,25163568.42
+7,12,38,D3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,5765,9.608,16,2518534.375,225.75,90.087,62.654,15937070.59,TRUE,20,4794930,1337.4,87.573,62.053,25163568.42
+9,32,38,D3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,22724,37.873,60,3228730,302.75,71.245,79.938,2727397.161,TRUE,20,4794930,1337.4,87.573,62.053,25163568.42
+6,21,38,D3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,12542,20.903,18,3257811.111,352.556,94.419,50.598,15703736.29,TRUE,13,5337042.308,1403.308,89.966,48.088,38438375
+7,12,38,D3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,4501,7.502,11,2404404.545,221.182,92.435,54.055,25614892.68,TRUE,13,5337042.308,1403.308,89.966,48.088,38438375
+9,32,38,D3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,20894,34.823,59,3116312.712,250.983,63.256,70.872,6405681.724,TRUE,13,5337042.308,1403.308,89.966,48.088,38438375
+6,21,38,D3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,12828,21.38,27,3642387.037,332.815,87.477,70.05,5310138.547,TRUE,23,4638054.348,1168.826,84.875,70.022,21122172.73
+7,12,38,D3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,4564,7.607,21,2228721.429,118.429,52.87,54.492,8300292.366,TRUE,23,4638054.348,1168.826,84.875,70.022,21122172.73
+9,32,38,D3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,21000,35,37,4295640.541,467.459,94.144,82.362,3980546.028,TRUE,23,4638054.348,1168.826,84.875,70.022,21122172.73
+6,21,38,D3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,10950,18.25,11,3976095.455,472.636,118.981,47.479,29818442.42,TRUE,11,4413400,1333.636,101.169,44.613,47914920
+7,12,38,D3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,3805,6.342,11,2259522.727,194.818,86.084,56.321,29344174.29,TRUE,11,4413400,1333.636,101.169,44.613,47914920
+9,32,38,D3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,18128,30.213,56,2608630.357,211.054,63.518,65.197,3604426.163,TRUE,11,4413400,1333.636,101.169,44.613,47914920
+6,21,38,D3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,12788,21.313,23,3549160.87,405.043,109.281,72.85,11475062.64,TRUE,20,4478525,1345.55,101.939,70.453,24985315.79
+7,12,38,D3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,6192,10.32,21,2452023.81,203.048,81.855,68.863,14266186.84,TRUE,20,4478525,1345.55,101.939,70.453,24985315.79
+9,32,38,D3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,19217,32.028,31,4289562.903,482.871,96.403,77.895,4848630.102,TRUE,20,4478525,1345.55,101.939,70.453,24985315.79
+59,21,43,D8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,1866,3.11,0,,,,0,15763929.73,TRUE,0,,,,,
+56,12,43,D8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,341,0.568,0,,,,0,,FALSE,0,,,,,
+58,32,43,D8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,120,0.2,0,,,,0,33136083.33,FALSE,0,,,,,
+59,21,43,D8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,1001,1.668,0,,,,0,23364663.64,TRUE,0,,,,,
+56,12,43,D8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,274,0.457,0,,,,0,1343445,FALSE,0,,,,,
+58,32,43,D8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,9227,15.378,40,1342728.75,109.825,84.966,47.61,3028155.422,TRUE,0,,,,,
+59,21,43,D8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,936,1.56,0,,,,0,100224680,TRUE,0,,,,,
+56,12,43,D8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,277,0.462,0,,,,0,119150725,FALSE,0,,,,,
+58,32,43,D8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,79,0.132,0,,,,0,95436790,FALSE,0,,,,,
+59,21,43,D8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,74,0.123,0,,,,0,36525470,FALSE,0,,,,,
+56,12,43,D8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,94,0.157,0,,,,0,21266038.24,FALSE,0,,,,,
+58,32,43,D8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,70,0.117,0,,,,0,18214497.5,FALSE,0,,,,,
+59,21,43,D8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,1071,1.785,0,,,,0,,TRUE,0,,,,,
+56,12,43,D8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,295,0.492,0,,,,0,,FALSE,0,,,,,
+58,32,43,D8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,94,0.157,0,,,,0,,FALSE,0,,,,,
+59,21,43,D8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,114,0.19,0,,,,0,28997014.29,FALSE,0,,,,,
+56,12,43,D8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,66,0.11,0,,,,0,33466250,FALSE,0,,,,,
+58,32,43,D8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,65,0.108,0,,,,0,,FALSE,0,,,,,
+96,21,44,D9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,15534,25.89,27,3926640.741,397.667,93.742,69.119,4194570.601,TRUE,22,4620345.455,1251.909,90.968,69.236,23409040.48
+97,12,44,D9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,15269,25.448,24,4213118.75,454.75,104.648,71.478,6090954.573,TRUE,22,4620345.455,1251.909,90.968,69.236,23409040.48
+99,32,44,D9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,8977,14.962,22,3215279.545,270.682,84.785,66.336,6557427.673,TRUE,22,4620345.455,1251.909,90.968,69.236,23409040.48
+96,21,44,D9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,15603,26.005,32,3517317.188,294.25,70.6,60.347,6206794.444,TRUE,16,4692084.375,1038.438,74.069,49.917,32180746.67
+97,12,44,D9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,12149,20.248,19,3794084.211,338,85.528,52.86,9210513.717,TRUE,16,4692084.375,1038.438,74.069,49.917,32180746.67
+99,32,44,D9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,5533,9.222,17,2481344.118,129.235,52.355,39.707,23915263.75,TRUE,16,4692084.375,1038.438,74.069,49.917,32180746.67
+96,21,44,D9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,11569,19.282,22,3534059.091,286.955,75.796,54.568,4915586.779,TRUE,17,3849511.765,741.824,64.229,52.211,31827571.88
+97,12,44,D9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,8535,14.225,18,3368216.667,261.5,75.44,55.149,9478049.099,TRUE,17,3849511.765,741.824,64.229,52.211,31827571.88
+99,32,44,D9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,4050,6.75,14,2121128.571,118.643,55.745,41.012,17899736.29,TRUE,17,3849511.765,741.824,64.229,52.211,31827571.88
+96,21,44,D9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,81,0.135,0,,,,0,,FALSE,0,,,,,
+97,12,44,D9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,818,1.363,0,,,,0,,TRUE,0,,,,,
+99,32,44,D9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,143,0.238,0,,,,0,,FALSE,0,,,,,
+96,21,44,D9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,16035,26.725,37,3148506.757,279.757,72.633,64.553,5926006.325,TRUE,17,4797108.824,1133.059,80.103,57.481,30383806.25
+97,12,44,D9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,11780,19.633,18,4298463.889,403.611,92.556,61.672,13802929.33,TRUE,17,4797108.824,1133.059,80.103,57.481,30383806.25
+99,32,44,D9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,5695,9.492,17,2576947.059,170.235,66.016,50.817,22933319.15,TRUE,17,4797108.824,1133.059,80.103,57.481,30383806.25
+96,21,44,D9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,6331,10.552,11,2039754.545,113.818,55.533,19.776,17736296.77,TRUE,11,2150881.818,304.636,46.968,23.161,52310625
+97,12,44,D9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,4652,7.753,11,2195086.364,134.273,61.013,31.75,28053576.39,TRUE,11,2150881.818,304.636,46.968,23.161,52310625
+99,32,44,D9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,3485,5.808,4,1335875,60,44.422,6.887,47075821.43,TRUE,11,2150881.818,304.636,46.968,23.161,52310625
+286,21,48,E1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,91,0.152,0,,,,0,52852894.44,FALSE,0,,,,,
+287,12,48,E1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,81,0.135,0,,,,0,48007722.22,FALSE,0,,,,,
+285,32,48,E1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,88,0.147,0,,,,0,50166050,FALSE,0,,,,,
+286,21,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,85,0.142,0,,,,0,5110045.876,FALSE,0,,,,,
+287,12,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,65,0.108,0,,,,0,6373790.789,FALSE,0,,,,,
+285,32,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,57,0.095,0,,,,0,7631149.242,FALSE,0,,,,,
+286,21,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,89,0.148,0,,,,0,1121689.048,FALSE,0,,,,,
+287,12,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,61,0.102,0,,,,0,1226339,FALSE,0,,,,,
+285,32,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,65,0.108,0,,,,0,804987.273,FALSE,0,,,,,
+286,21,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,108,0.18,0,,,,0,10928709.57,FALSE,0,,,,,
+287,12,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,73,0.122,0,,,,0,10749906.38,FALSE,0,,,,,
+285,32,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,54,0.09,0,,,,0,9033148.214,FALSE,0,,,,,
+286,21,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,67,0.112,0,,,,0,,FALSE,0,,,,,
+287,12,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,61,0.102,0,,,,0,,FALSE,0,,,,,
+285,32,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,43,0.072,0,,,,0,,FALSE,0,,,,,
+286,21,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,92,0.153,0,,,,0,17742261.29,FALSE,0,,,,,
+287,12,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,57,0.095,0,,,,0,9912640.909,FALSE,0,,,,,
+285,32,48,E1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,71,0.118,0,,,,0,6187414.458,FALSE,0,,,,,
+184,21,58,E11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,90,0.15,0,,,,0,21187082,FALSE,0,,,,,
+185,12,58,E11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,68,0.113,0,,,,0,30002807.69,FALSE,0,,,,,
+183,32,58,E11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,75,0.125,0,,,,0,16224800,FALSE,0,,,,,
+184,21,58,E11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,27,0.045,0,,,,0,,FALSE,0,,,,,
+185,12,58,E11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,12,0.02,0,,,,0,,FALSE,0,,,,,
+183,32,58,E11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,18,0.03,0,,,,0,,FALSE,0,,,,,
+184,21,58,E11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,25,0.042,0,,,,0,,FALSE,0,,,,,
+185,12,58,E11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,9,0.015,0,,,,0,,FALSE,0,,,,,
+183,32,58,E11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,22,0.037,0,,,,0,,FALSE,0,,,,,
+184,21,58,E11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,6,0.01,0,,,,0,,FALSE,0,,,,,
+185,12,58,E11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,9,0.015,0,,,,0,,FALSE,0,,,,,
+183,32,58,E11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,5,0.008,0,,,,0,2770350,FALSE,0,,,,,
+184,21,58,E11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,19,0.032,0,,,,0,,FALSE,0,,,,,
+185,12,58,E11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,10,0.017,0,,,,0,,FALSE,0,,,,,
+183,32,58,E11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,7,0.012,0,,,,0,,FALSE,0,,,,,
+184,21,58,E11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,12,0.02,0,,,,0,,FALSE,0,,,,,
+185,12,58,E11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,3,0.005,0,,,,0,,FALSE,0,,,,,
+183,32,58,E11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,6,0.01,0,,,,0,,FALSE,0,,,,,
+181,21,59,E12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,60,0.1,0,,,,0,,FALSE,0,,,,,
+182,12,59,E12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+180,32,59,E12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,87,0.145,0,,,,0,,FALSE,0,,,,,
+181,21,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,28,0.047,0,,,,0,15264829.41,FALSE,0,,,,,
+182,12,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,31,0.052,0,,,,0,13894421.62,FALSE,0,,,,,
+180,32,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,37,0.062,0,,,,0,8912839.655,FALSE,0,,,,,
+181,21,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,48,0.08,0,,,,0,35853600,FALSE,0,,,,,
+182,12,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,47,0.078,0,,,,0,29442500,FALSE,0,,,,,
+180,32,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,38,0.063,0,,,,0,26538675,FALSE,0,,,,,
+181,21,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,23,0.038,0,,,,0,,FALSE,0,,,,,
+182,12,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,20,0.033,0,,,,0,,FALSE,0,,,,,
+180,32,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,20,0.033,0,,,,0,,FALSE,0,,,,,
+181,21,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,5,0.008,0,,,,0,1043650,FALSE,0,,,,,
+182,12,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,7,0.012,0,,,,0,1536125,FALSE,0,,,,,
+180,32,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,9,0.015,0,,,,0,1725600,FALSE,0,,,,,
+181,21,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,13,0.022,0,,,,0,134214400,FALSE,0,,,,,
+182,12,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,10,0.017,0,,,,0,178741983.3,FALSE,0,,,,,
+180,32,59,E12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,15,0.025,0,,,,0,70648162.5,FALSE,0,,,,,
+283,21,49,E2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+284,12,49,E2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,6905,11.508,5,7034150,1343,161.655,97.248,59833761.11,TRUE,0,,,,,
+282,32,49,E2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,79,0.132,0,,,,0,,FALSE,0,,,,,
+283,21,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,40,0.067,0,,,,0,,FALSE,0,,,,,
+284,12,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,41,0.068,0,,,,0,,FALSE,0,,,,,
+282,32,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,49,0.082,0,,,,0,,FALSE,0,,,,,
+283,21,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,50,0.083,0,,,,0,603950,FALSE,0,,,,,
+284,12,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,78,0.13,0,,,,0,136850,FALSE,0,,,,,
+282,32,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,53,0.088,0,,,,0,160500,FALSE,0,,,,,
+283,21,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,70,0.117,0,,,,0,150975,FALSE,0,,,,,
+284,12,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,41,0.068,0,,,,0,139983.333,FALSE,0,,,,,
+282,32,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,87,0.145,0,,,,0,,FALSE,0,,,,,
+283,21,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,51,0.085,0,,,,0,262700,FALSE,0,,,,,
+284,12,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,40,0.067,0,,,,0,1171216.667,FALSE,0,,,,,
+282,32,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,63,0.105,0,,,,0,1227925,FALSE,0,,,,,
+283,21,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+284,12,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,60,0.1,0,,,,0,28216300,FALSE,0,,,,,
+282,32,49,E2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,73,0.122,0,,,,0,41745050,FALSE,0,,,,,
+280,21,50,E3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,74,0.123,0,,,,0,,FALSE,0,,,,,
+281,12,50,E3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,197,0.328,0,,,,0,,FALSE,0,,,,,
+279,32,50,E3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,61,0.102,0,,,,0,8947132.353,FALSE,0,,,,,
+280,21,50,E3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,35,0.058,0,,,,0,,FALSE,0,,,,,
+281,12,50,E3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,222,0.37,0,,,,0,,FALSE,0,,,,,
+279,32,50,E3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,75,0.125,0,,,,0,,FALSE,0,,,,,
+280,21,50,E3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,110,0.183,0,,,,0,,FALSE,0,,,,,
+281,12,50,E3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,220,0.367,0,,,,0,,FALSE,0,,,,,
+279,32,50,E3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,76,0.127,0,,,,0,13177575,FALSE,0,,,,,
+280,21,50,E3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,84,0.14,0,,,,0,,FALSE,0,,,,,
+281,12,50,E3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,213,0.355,0,,,,0,,FALSE,0,,,,,
+279,32,50,E3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,81,0.135,0,,,,0,441807650,FALSE,0,,,,,
+280,21,50,E3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,19,0.032,0,,,,0,,FALSE,0,,,,,
+281,12,50,E3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,198,0.33,0,,,,0,,FALSE,0,,,,,
+279,32,50,E3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,78,0.13,0,,,,0,,FALSE,0,,,,,
+280,21,50,E3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,89,0.148,0,,,,0,,FALSE,0,,,,,
+281,12,50,E3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,207,0.345,0,,,,0,,FALSE,0,,,,,
+279,32,50,E3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,92,0.153,0,,,,0,,FALSE,0,,,,,
+277,21,51,E4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,94,0.157,0,,,,0,31210955.88,FALSE,0,,,,,
+278,12,51,E4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,182,0.303,0,,,,0,9791488.889,FALSE,0,,,,,
+276,32,51,E4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,102,0.17,0,,,,0,14424981.08,FALSE,0,,,,,
+277,21,51,E4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,83,0.138,0,,,,0,118350,FALSE,0,,,,,
+278,12,51,E4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,123,0.205,0,,,,0,193916.667,FALSE,0,,,,,
+276,32,51,E4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,81,0.135,0,,,,0,416900,FALSE,0,,,,,
+277,21,51,E4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,41,0.068,0,,,,0,,FALSE,0,,,,,
+278,12,51,E4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,135,0.225,0,,,,0,58010050,FALSE,0,,,,,
+276,32,51,E4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,91,0.152,0,,,,0,127367487.5,FALSE,0,,,,,
+277,21,51,E4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,62,0.103,0,,,,0,447506800,FALSE,0,,,,,
+278,12,51,E4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,122,0.203,0,,,,0,,FALSE,0,,,,,
+276,32,51,E4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,73,0.122,0,,,,0,,FALSE,0,,,,,
+277,21,51,E4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,47,0.078,0,,,,0,3366800,FALSE,0,,,,,
+278,12,51,E4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,135,0.225,0,,,,0,,FALSE,0,,,,,
+276,32,51,E4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,95,0.158,0,,,,0,,FALSE,0,,,,,
+277,21,51,E4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,45,0.075,0,,,,0,16572975,FALSE,0,,,,,
+278,12,51,E4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,128,0.213,0,,,,0,169875,FALSE,0,,,,,
+276,32,51,E4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,99,0.165,0,,,,0,179850,FALSE,0,,,,,
+238,21,52,E5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,65,0.108,0,,,,0,6766929.73,FALSE,0,,,,,
+239,12,52,E5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,62,0.103,0,,,,0,9763344.118,FALSE,0,,,,,
+237,32,52,E5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,103,0.172,0,,,,0,11693094.64,FALSE,0,,,,,
+238,21,52,E5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,84,0.14,0,,,,0,199125,FALSE,0,,,,,
+239,12,52,E5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,73,0.122,0,,,,0,119850,FALSE,0,,,,,
+237,32,52,E5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,121,0.202,0,,,,0,139475,FALSE,0,,,,,
+238,21,52,E5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,40,0.067,0,,,,0,7520255,FALSE,0,,,,,
+239,12,52,E5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,58,0.097,0,,,,0,8406650,FALSE,0,,,,,
+237,32,52,E5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,76,0.127,0,,,,0,8445143.75,FALSE,0,,,,,
+238,21,52,E5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,64,0.107,0,,,,0,,FALSE,0,,,,,
+239,12,52,E5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,65,0.108,0,,,,0,,FALSE,0,,,,,
+237,32,52,E5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,108,0.18,0,,,,0,,FALSE,0,,,,,
+238,21,52,E5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,48,0.08,0,,,,0,,FALSE,0,,,,,
+239,12,52,E5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,34,0.057,0,,,,0,,FALSE,0,,,,,
+237,32,52,E5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,85,0.142,0,,,,0,,FALSE,0,,,,,
+238,21,52,E5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,52,0.087,0,,,,0,,FALSE,0,,,,,
+239,12,52,E5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,62,0.103,0,,,,0,,FALSE,0,,,,,
+237,32,52,E5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+235,21,53,E6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,65,0.108,0,,,,0,,FALSE,0,,,,,
+236,12,53,E6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,72,0.12,0,,,,0,,FALSE,0,,,,,
+234,32,53,E6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,65,0.108,0,,,,0,,FALSE,0,,,,,
+235,21,53,E6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,57,0.095,0,,,,0,,FALSE,0,,,,,
+236,12,53,E6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,56,0.093,0,,,,0,170250,FALSE,0,,,,,
+234,32,53,E6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,51,0.085,0,,,,0,139037.5,FALSE,0,,,,,
+235,21,53,E6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,45,0.075,0,,,,0,,FALSE,0,,,,,
+236,12,53,E6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,51,0.085,0,,,,0,,FALSE,0,,,,,
+234,32,53,E6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,46,0.077,0,,,,0,,FALSE,0,,,,,
+235,21,53,E6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,39,0.065,0,,,,0,100450,FALSE,0,,,,,
+236,12,53,E6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,56,0.093,0,,,,0,,FALSE,0,,,,,
+234,32,53,E6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,37,0.062,0,,,,0,102100,FALSE,0,,,,,
+235,21,53,E6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,30,0.05,0,,,,0,,FALSE,0,,,,,
+236,12,53,E6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,44,0.073,0,,,,0,,FALSE,0,,,,,
+234,32,53,E6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,31,0.052,0,,,,0,,FALSE,0,,,,,
+235,21,53,E6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,36,0.06,0,,,,0,,FALSE,0,,,,,
+236,12,53,E6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,37,0.062,0,,,,0,,FALSE,0,,,,,
+234,32,53,E6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,43,0.072,0,,,,0,,FALSE,0,,,,,
+232,21,54,E7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,82,0.137,0,,,,0,,FALSE,0,,,,,
+233,12,54,E7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,69,0.115,0,,,,0,118700,FALSE,0,,,,,
+231,32,54,E7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,69,0.115,0,,,,0,25845075,FALSE,0,,,,,
+232,21,54,E7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,23,0.038,0,,,,0,,FALSE,0,,,,,
+233,12,54,E7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,40,0.067,0,,,,0,,FALSE,0,,,,,
+231,32,54,E7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,22,0.037,0,,,,0,122850,FALSE,0,,,,,
+232,21,54,E7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,13,0.022,0,,,,0,100600,FALSE,0,,,,,
+233,12,54,E7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,20,0.033,0,,,,0,119450,FALSE,0,,,,,
+231,32,54,E7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,13,0.022,0,,,,0,,FALSE,0,,,,,
+232,21,54,E7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,27,0.045,0,,,,0,20433287.5,FALSE,0,,,,,
+233,12,54,E7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,24,0.04,0,,,,0,1650550,FALSE,0,,,,,
+231,32,54,E7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,7,0.012,0,,,,0,1217275,FALSE,0,,,,,
+232,21,54,E7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,20,0.033,0,,,,0,,FALSE,0,,,,,
+233,12,54,E7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,18,0.03,0,,,,0,,FALSE,0,,,,,
+231,32,54,E7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,17,0.028,0,,,,0,,FALSE,0,,,,,
+232,21,54,E7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,10,0.017,0,,,,0,,FALSE,0,,,,,
+233,12,54,E7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,18,0.03,0,,,,0,,FALSE,0,,,,,
+231,32,54,E7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,8,0.013,0,,,,0,,FALSE,0,,,,,
+229,21,55,E8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,74,0.123,0,,,,0,539400,FALSE,0,,,,,
+230,12,55,E8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,41,0.068,0,,,,0,2068691.81,FALSE,0,,,,,
+228,32,55,E8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,70,0.117,0,,,,0,,FALSE,0,,,,,
+229,21,55,E8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,88,0.147,0,,,,0,360050,FALSE,0,,,,,
+230,12,55,E8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,92,0.153,0,,,,0,,FALSE,0,,,,,
+228,32,55,E8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,86,0.143,0,,,,0,,FALSE,0,,,,,
+229,21,55,E8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,91,0.152,0,,,,0,160530000,FALSE,0,,,,,
+230,12,55,E8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,82,0.137,0,,,,0,,FALSE,0,,,,,
+228,32,55,E8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,87,0.145,0,,,,0,,FALSE,0,,,,,
+229,21,55,E8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,87,0.145,0,,,,0,,FALSE,0,,,,,
+230,12,55,E8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,62,0.103,0,,,,0,,FALSE,0,,,,,
+228,32,55,E8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,72,0.12,0,,,,0,,FALSE,0,,,,,
+229,21,55,E8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,71,0.118,0,,,,0,,FALSE,0,,,,,
+230,12,55,E8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,69,0.115,0,,,,0,,FALSE,0,,,,,
+228,32,55,E8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,106,0.177,0,,,,0,,FALSE,0,,,,,
+229,21,55,E8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,74,0.123,0,,,,0,,FALSE,0,,,,,
+230,12,55,E8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,80,0.133,0,,,,0,,FALSE,0,,,,,
+228,32,55,E8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,100,0.167,0,,,,0,,FALSE,0,,,,,
+250,21,60,F1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,68,0.113,0,,,,0,,FALSE,0,,,,,
+251,12,60,F1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,110,0.183,0,,,,0,31060100,FALSE,0,,,,,
+249,32,60,F1,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,81,0.135,0,,,,0,4304125,FALSE,0,,,,,
+250,21,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,65,0.108,0,,,,0,5366810.606,FALSE,0,,,,,
+251,12,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,80,0.133,0,,,,0,4031380.833,FALSE,0,,,,,
+249,32,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,88,0.147,0,,,,0,5417847.191,FALSE,0,,,,,
+250,21,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,69,0.115,0,,,,0,18240450,FALSE,0,,,,,
+251,12,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,79,0.132,0,,,,0,11836654.35,FALSE,0,,,,,
+249,32,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,76,0.127,0,,,,0,4084469.421,FALSE,0,,,,,
+250,21,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,76,0.127,0,,,,0,35966809.38,FALSE,0,,,,,
+251,12,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,92,0.153,0,,,,0,17855697.62,FALSE,0,,,,,
+249,32,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,97,0.162,0,,,,0,6403478.977,FALSE,0,,,,,
+250,21,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,65,0.108,0,,,,0,10846592.22,FALSE,0,,,,,
+251,12,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,74,0.123,0,,,,0,12470359.09,FALSE,0,,,,,
+249,32,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,81,0.135,0,,,,0,12172242.31,FALSE,0,,,,,
+250,21,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,87,0.145,0,,,,0,6372453.012,FALSE,0,,,,,
+251,12,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,82,0.137,0,,,,0,4489135.714,FALSE,0,,,,,
+249,32,60,F1,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,80,0.133,0,,,,0,3698110.887,FALSE,0,,,,,
+151,21,69,F10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,90,0.15,0,,,,0,1594171.399,FALSE,0,,,,,
+152,12,69,F10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,91,0.152,0,,,,0,2262780.841,FALSE,0,,,,,
+150,32,69,F10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,83,0.138,0,,,,0,906930.732,FALSE,0,,,,,
+151,21,69,F10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,118,0.197,0,,,,0,4927184.409,FALSE,0,,,,,
+152,12,69,F10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,103,0.172,0,,,,0,18481410,FALSE,0,,,,,
+150,32,69,F10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,113,0.188,0,,,,0,2357530,FALSE,0,,,,,
+151,21,69,F10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,109,0.182,0,,,,0,17048975.86,FALSE,0,,,,,
+152,12,69,F10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,81,0.135,0,,,,0,2312696.114,FALSE,0,,,,,
+150,32,69,F10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,81,0.135,0,,,,0,4268282.231,FALSE,0,,,,,
+151,21,69,F10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,96,0.16,0,,,,0,2521633.871,FALSE,0,,,,,
+152,12,69,F10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,80,0.133,0,,,,0,24783958.33,FALSE,0,,,,,
+150,32,69,F10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,92,0.153,0,,,,0,58244856.25,FALSE,0,,,,,
+151,21,69,F10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,134,0.223,0,,,,0,2927943.987,FALSE,0,,,,,
+152,12,69,F10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,86,0.143,0,,,,0,7334479.808,FALSE,0,,,,,
+150,32,69,F10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,85,0.142,0,,,,0,2355188.974,FALSE,0,,,,,
+151,21,69,F10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,144,0.24,0,,,,0,2710196.25,FALSE,0,,,,,
+152,12,69,F10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,114,0.19,0,,,,0,3867844.444,FALSE,0,,,,,
+150,32,69,F10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,88,0.147,0,,,,0,2838865.625,FALSE,0,,,,,
+148,21,70,F11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,46,0.077,0,,,,0,1048942.625,FALSE,0,,,,,
+149,12,70,F11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,34,0.057,0,,,,0,3162330.272,FALSE,0,,,,,
+147,32,70,F11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,46,0.077,0,,,,0,22609906.25,FALSE,0,,,,,
+148,21,70,F11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,33,0.055,0,,,,0,2575967.697,FALSE,0,,,,,
+149,12,70,F11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,34,0.057,0,,,,0,4439666.957,FALSE,0,,,,,
+147,32,70,F11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,23,0.038,0,,,,0,19228738.89,FALSE,0,,,,,
+148,21,70,F11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,39,0.065,0,,,,0,1201341.954,FALSE,0,,,,,
+149,12,70,F11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,47,0.078,0,,,,0,2213630.99,FALSE,0,,,,,
+147,32,70,F11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,36,0.06,0,,,,0,3086730.357,FALSE,0,,,,,
+148,21,70,F11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,33,0.055,0,,,,0,5822149.39,FALSE,0,,,,,
+149,12,70,F11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,22,0.037,0,,,,0,3510810,FALSE,0,,,,,
+147,32,70,F11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,18,0.03,0,,,,0,5077339.899,FALSE,0,,,,,
+148,21,70,F11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,47,0.078,0,,,,0,1899014.798,FALSE,0,,,,,
+149,12,70,F11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,29,0.048,0,,,,0,2799583.117,FALSE,0,,,,,
+147,32,70,F11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,17,0.028,0,,,,0,19991363.79,FALSE,0,,,,,
+148,21,70,F11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,11,0.018,0,,,,0,50362666.67,FALSE,0,,,,,
+149,12,70,F11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,4,0.007,0,,,,0,8197958.065,FALSE,0,,,,,
+147,32,70,F11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,8,0.013,0,,,,0,3123289.264,FALSE,0,,,,,
+145,21,71,F12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,40,0.067,0,,,,0,4106177.907,FALSE,0,,,,,
+146,12,71,F12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,66,0.11,0,,,,0,25287556.52,FALSE,0,,,,,
+144,32,71,F12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,76,0.127,0,,,,0,19693420.69,FALSE,0,,,,,
+145,21,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,90,0.15,0,,,,0,52572713.64,FALSE,0,,,,,
+146,12,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,83,0.138,0,,,,0,1405312.415,FALSE,0,,,,,
+144,32,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,69,0.115,0,,,,0,1770937.5,FALSE,0,,,,,
+145,21,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,87,0.145,0,,,,0,7165406.41,FALSE,0,,,,,
+146,12,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,96,0.16,0,,,,0,1522415.993,FALSE,0,,,,,
+144,32,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,57,0.095,0,,,,0,973203.231,FALSE,0,,,,,
+145,21,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,74,0.123,0,,,,0,2292522.554,FALSE,0,,,,,
+146,12,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,91,0.152,0,,,,0,38521053.85,FALSE,0,,,,,
+144,32,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,86,0.143,0,,,,0,19582530.36,FALSE,0,,,,,
+145,21,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,100,0.167,0,,,,0,10308143.27,FALSE,0,,,,,
+146,12,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,106,0.177,0,,,,0,5924997.59,FALSE,0,,,,,
+144,32,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,65,0.108,0,,,,0,7588194.697,FALSE,0,,,,,
+145,21,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,94,0.157,0,,,,0,4257932.911,FALSE,0,,,,,
+146,12,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,114,0.19,0,,,,0,5025337.5,FALSE,0,,,,,
+144,32,71,F12,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,94,0.157,0,,,,0,1353002.907,FALSE,0,,,,,
+247,21,61,F2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,72,0.12,0,,,,0,43964300,FALSE,0,,,,,
+248,12,61,F2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,61,0.102,0,,,,0,,FALSE,0,,,,,
+246,32,61,F2,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,137,0.228,0,,,,0,228650,FALSE,0,,,,,
+247,21,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,36,0.06,0,,,,0,,FALSE,0,,,,,
+248,12,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,30,0.05,0,,,,0,,FALSE,0,,,,,
+246,32,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_1_001,0,Control,42,0.07,0,,,,0,,FALSE,0,,,,,
+247,21,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,36,0.06,0,,,,0,1598466.667,FALSE,0,,,,,
+248,12,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,33,0.055,0,,,,0,1140960,FALSE,0,,,,,
+246,32,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_2_001,0,Control,50,0.083,0,,,,0,1698433.333,FALSE,0,,,,,
+247,21,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,34,0.057,0,,,,0,102644225,FALSE,0,,,,,
+248,12,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,35,0.058,0,,,,0,137133933.3,FALSE,0,,,,,
+246,32,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_3_001,0,Control,55,0.092,0,,,,0,68367558.33,FALSE,0,,,,,
+247,21,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,17,0.028,0,,,,0,,FALSE,0,,,,,
+248,12,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,21,0.035,0,,,,0,,FALSE,0,,,,,
+246,32,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_4_001,0,Control,42,0.07,0,,,,0,301150,FALSE,0,,,,,
+247,21,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,19,0.032,0,,,,0,,FALSE,0,,,,,
+248,12,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,39,0.065,0,,,,0,16890400,FALSE,0,,,,,
+246,32,61,F2,CTRL_veh.DMSO,"0,1% DMSO CTRL",20250905_CTRL_veh.DMSO_R0005_4_250727_6134_40d_5_001,0,Control,50,0.083,0,,,,0,21008675,FALSE,0,,,,,
+244,21,62,F3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,86,0.143,0,,,,0,,FALSE,0,,,,,
+245,12,62,F3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,109,0.182,0,,,,0,,FALSE,0,,,,,
+243,32,62,F3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,72,0.12,0,,,,0,80429300,FALSE,0,,,,,
+244,21,62,F3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,46,0.077,0,,,,0,7854000,FALSE,0,,,,,
+245,12,62,F3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,49,0.082,0,,,,0,,FALSE,0,,,,,
+243,32,62,F3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,43,0.072,0,,,,0,136700,FALSE,0,,,,,
+244,21,62,F3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,47,0.078,0,,,,0,128750,FALSE,0,,,,,
+245,12,62,F3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,47,0.078,0,,,,0,119600,FALSE,0,,,,,
+243,32,62,F3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,32,0.053,0,,,,0,,FALSE,0,,,,,
+244,21,62,F3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,62,0.103,0,,,,0,,FALSE,0,,,,,
+245,12,62,F3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,46,0.077,0,,,,0,34052066.67,FALSE,0,,,,,
+243,32,62,F3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,61,0.102,0,,,,0,,FALSE,0,,,,,
+244,21,62,F3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,44,0.073,0,,,,0,,FALSE,0,,,,,
+245,12,62,F3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,33,0.055,0,,,,0,,FALSE,0,,,,,
+243,32,62,F3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,25,0.042,0,,,,0,,FALSE,0,,,,,
+244,21,62,F3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,53,0.088,0,,,,0,,FALSE,0,,,,,
+245,12,62,F3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,41,0.068,0,,,,0,,FALSE,0,,,,,
+243,32,62,F3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,36,0.06,0,,,,0,15913216.67,FALSE,0,,,,,
+175,21,81,G10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,6732,11.22,24,2810175,188.583,67.654,67.231,9997472.727,TRUE,24,4572070.833,941.458,69.442,74.586,21156345.65
+176,12,81,G10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,12820,21.367,25,4393136,384.52,87.114,74.984,5451266.48,TRUE,24,4572070.833,941.458,69.442,74.586,21156345.65
+174,32,81,G10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,10742,17.903,30,3515753.333,272.167,75.182,76.01,8713757.328,TRUE,24,4572070.833,941.458,69.442,74.586,21156345.65
+175,21,81,G10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,4448,7.413,21,1956357.143,91,46.594,42.963,26395870,TRUE,25,3713042,575.56,52.496,61.397,20954945.83
+176,12,81,G10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,9889,16.482,25,3721836,258.56,70.14,65.366,35513917.31,TRUE,25,3713042,575.56,52.496,61.397,20954945.83
+174,32,81,G10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,9099,15.165,40,2588010,154.725,58.839,68.018,20804650,TRUE,25,3713042,575.56,52.496,61.397,20954945.83
+175,21,81,G10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,4904,8.173,25,2285528,119.96,52.297,61.154,20116070,TRUE,24,3903235.417,662.208,57.06,66.54,21100302.17
+176,12,81,G10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,10226,17.043,25,3606638,275.84,76.133,67.436,19794561.77,TRUE,24,3903235.417,662.208,57.06,66.54,21100302.17
+174,32,81,G10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,8755,14.592,30,3217465,212.533,64.669,72.827,17922614.71,TRUE,24,3903235.417,662.208,57.06,66.54,21100302.17
+175,21,81,G10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,16,0.027,0,,,,0,4870980,FALSE,0,,,,,
+176,12,81,G10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,25,0.042,0,,,,0,2308878.571,FALSE,0,,,,,
+174,32,81,G10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,20,0.033,0,,,,0,2438535.714,FALSE,0,,,,,
+175,21,81,G10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,4805,8.008,23,2294436.957,125.957,55.339,60.291,23586631.82,TRUE,23,3896654.348,651.957,56.787,68.063,21947704.55
+176,12,81,G10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,9635,16.058,24,3588558.333,279.375,77.561,69.59,20588190.2,TRUE,23,3896654.348,651.957,56.787,68.063,21947704.55
+174,32,81,G10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,7591,12.652,33,2546574.242,165.182,63.299,71.809,22893518.06,TRUE,23,3896654.348,651.957,56.787,68.063,21947704.55
+175,21,81,G10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,1577,2.628,0,,,,0,,TRUE,2,1522775,120.5,26.338,1.964,89212950
+176,12,81,G10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,5910,9.85,12,1450108.333,62.75,43.43,12.741,48797840.91,TRUE,2,1522775,120.5,26.338,1.964,89212950
+174,32,81,G10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,4786,7.977,10,1305445,58,44.177,12.119,29888335.48,TRUE,2,1522775,120.5,26.338,1.964,89212950
+169,21,83,G12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,78,0.13,0,,,,0,,FALSE,0,,,,,
+170,12,83,G12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,65,0.108,0,,,,0,,FALSE,0,,,,,
+168,32,83,G12,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,55,0.092,0,,,,0,,FALSE,0,,,,,
+265,21,75,G4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,1214,2.023,0,,,,0,14064722.37,TRUE,9,1870427.778,174.556,31.18,13.341,61384687.5
+266,12,75,G4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,6602,11.003,15,2130353.333,91.267,41.935,20.736,13526760.76,TRUE,9,1870427.778,174.556,31.18,13.341,61384687.5
+264,32,75,G4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,3960,6.6,17,1537950,82.059,53.715,35.227,11862191.3,TRUE,9,1870427.778,174.556,31.18,13.341,61384687.5
+265,21,75,G4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,636,1.06,0,,,,0,,TRUE,0,,,,,
+266,12,75,G4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,4069,6.782,1,1607800,52,31.72,1.278,,TRUE,0,,,,,
+264,32,75,G4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,2996,4.993,6,1155833.333,59.833,51.125,11.983,34131626.67,TRUE,0,,,,,
+265,21,75,G4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,490,0.817,0,,,,0,24348727.08,FALSE,0,,,,,
+266,12,75,G4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,4533,7.555,4,1638850,59.75,36.812,5.272,3789713.028,TRUE,0,,,,,
+264,32,75,G4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,2713,4.522,4,1030162.5,58.5,56.358,8.625,33936330,TRUE,0,,,,,
+265,21,75,G4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,540,0.9,0,,,,0,117700,TRUE,0,,,,,
+266,12,75,G4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,3630,6.05,0,,,,0,96956375,TRUE,0,,,,,
+264,32,75,G4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,2763,4.605,5,1168880,57.4,48.989,10.387,24219800,TRUE,0,,,,,
+265,21,75,G4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,599,0.998,0,,,,0,24809081.82,TRUE,3,1652200,122.667,24.79,4.26,62922950
+266,12,75,G4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,5000,8.333,9,1912238.889,72.778,37.809,13.1,31016095.16,TRUE,3,1652200,122.667,24.79,4.26,62922950
+264,32,75,G4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,3040,5.067,12,1293395.833,67.167,52.054,26.513,17586301.72,TRUE,3,1652200,122.667,24.79,4.26,62922950
+265,21,75,G4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,595,0.992,0,,,,0,22188333.33,TRUE,0,,,,,
+266,12,75,G4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,4445,7.408,0,,,,0,31662750,TRUE,0,,,,,
+264,32,75,G4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,2780,4.633,10,1166180,55.9,48.381,20.108,23663017.39,TRUE,0,,,,,
+226,21,76,G5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,19694,32.823,31,4177648.387,447.129,92.681,70.382,2583998.198,TRUE,22,4963752.273,1202.273,77.25,64.344,22073771.43
+227,12,76,G5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,16657,27.762,29,3704532.759,365.621,88.297,63.655,2825997.59,TRUE,22,4963752.273,1202.273,77.25,64.344,22073771.43
+225,32,76,G5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,4756,7.927,21,2240338.095,110.762,50.385,48.907,9601446.296,TRUE,22,4963752.273,1202.273,77.25,64.344,22073771.43
+226,21,76,G5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,19747,32.912,36,4004023.611,380.306,82.248,69.332,4357304.091,TRUE,23,5117286.957,1018.261,66.031,61.238,20830786.36
+227,12,76,G5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,14822,24.703,32,3385357.813,282.469,76.107,60.984,3519253.737,TRUE,23,5117286.957,1018.261,66.031,61.238,20830786.36
+225,32,76,G5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,3675,6.125,9,1453033.333,65.889,46.062,16.136,20456338.04,TRUE,23,5117286.957,1018.261,66.031,61.238,20830786.36
+226,21,76,G5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,17653,29.422,35,3529992.857,336.543,79.399,66.725,4638053.606,TRUE,22,4377390.909,914.318,64.376,56.045,23374323.81
+227,12,76,G5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,14665,24.442,32,3190659.375,265.844,72.753,58.009,3968253.696,TRUE,22,4377390.909,914.318,64.376,56.045,23374323.81
+225,32,76,G5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,3573,5.955,13,1597511.538,68.692,42.523,24.993,15403821.43,TRUE,22,4377390.909,914.318,64.376,56.045,23374323.81
+226,21,76,G5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,15248,25.413,42,3066897.619,218.5,63.462,60.185,8322983.065,TRUE,22,3437545.455,527.818,47.885,37.933,23818640.48
+227,12,76,G5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,11686,19.477,32,2195810.938,137.875,58.085,37.755,3488450.169,TRUE,22,3437545.455,527.818,47.885,37.933,23818640.48
+225,32,76,G5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,3678,6.13,0,,,,0,12042907.45,TRUE,22,3437545.455,527.818,47.885,37.933,23818640.48
+226,21,76,G5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,19304,32.173,36,3700495.833,375.278,84.281,69.985,12050845.35,TRUE,23,5100367.391,1050.304,65.8,62.772,21451520.46
+227,12,76,G5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,15566,25.943,37,3023247.297,261.838,74.837,62.238,18325083.62,TRUE,23,5100367.391,1050.304,65.8,62.772,21451520.46
+225,32,76,G5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,3614,6.023,15,1398350,71.267,51.95,29.579,19892812.28,TRUE,23,5100367.391,1050.304,65.8,62.772,21451520.46
+226,21,76,G5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,9253,15.422,22,2984038.636,232.455,71.073,55.269,4022714.024,TRUE,20,3180417.5,562.35,55.584,45.415,25942905.26
+227,12,76,G5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,12121,20.202,34,2559058.824,186.176,65.075,52.223,4403461.111,TRUE,20,3180417.5,562.35,55.584,45.415,25942905.26
+225,32,76,G5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,3391,5.652,3,1334950,67.667,51.232,5.986,19645176.67,TRUE,20,3180417.5,562.35,55.584,45.415,25942905.26
+220,21,78,G7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,21299,35.498,38,3823855.263,445.579,100.129,79.497,3385929.96,TRUE,24,3677091.667,804.458,73.992,61.532,21349021.74
+221,12,78,G7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,7520,12.533,29,2249487.931,135.897,59.695,52.407,6074053.235,TRUE,24,3677091.667,804.458,73.992,61.532,21349021.74
+219,32,78,G7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,2558,4.263,4,1196700,52.5,43.14,8.21,11946283.8,TRUE,24,3677091.667,804.458,73.992,61.532,21349021.74
+220,21,78,G7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,17383,28.972,40,3119133.75,323.55,90.632,74.452,6541318.506,TRUE,18,2400908.333,457.111,63.516,34.107,30811164.71
+221,12,78,G7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,5187,8.645,18,1470286.111,78.278,53.349,27.164,10400350,TRUE,18,2400908.333,457.111,63.516,34.107,30811164.71
+219,32,78,G7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,1554,2.59,0,,,,0,200900,TRUE,18,2400908.333,457.111,63.516,34.107,30811164.71
+220,21,78,G7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,19980,33.3,35,4056668.571,429.886,93.441,75.305,3594441.968,TRUE,21,3428088.095,678.143,66.853,49.209,24560927.5
+221,12,78,G7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,6771,11.285,25,1855202,107.64,57.399,39.743,8177565.504,TRUE,21,3428088.095,678.143,66.853,49.209,24560927.5
+219,32,78,G7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,2189,3.648,0,,,,0,,TRUE,21,3428088.095,678.143,66.853,49.209,24560927.5
+220,21,78,G7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,84,0.14,0,,,,0,,FALSE,0,,,,,
+221,12,78,G7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,75,0.125,0,,,,0,,FALSE,0,,,,,
+219,32,78,G7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,53,0.088,0,,,,0,,FALSE,0,,,,,
+220,21,78,G7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,17088,28.48,34,3491276.471,375.265,94.927,74.666,4495940,TRUE,21,3128169.048,618.905,67.14,49.914,25168657.5
+221,12,78,G7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,7093,11.822,23,2007606.522,121.913,60.222,39.532,8847694.672,TRUE,21,3128169.048,618.905,67.14,49.914,25168657.5
+219,32,78,G7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,1858,3.097,0,,,,0,,TRUE,21,3128169.048,618.905,67.14,49.914,25168657.5
+220,21,78,G7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,8617,14.362,21,2601895.238,200.238,75.813,48.799,4515157.018,TRUE,0,,,,,
+221,12,78,G7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,2223,3.705,0,,,,0,5582489.216,TRUE,0,,,,,
+219,32,78,G7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,399,0.665,0,,,,0,,FALSE,0,,,,,
+178,21,80,G9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,18309,30.515,27,4813633.333,527.481,102.692,77.787,6701467.958,TRUE,22,5271368.182,1127.318,72.009,75.5,22417707.14
+179,12,80,G9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,13333,22.222,26,4424642.308,400.846,86.907,78.167,6477851.935,TRUE,22,5271368.182,1127.318,72.009,75.5,22417707.14
+177,32,80,G9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,1207,2.012,0,,,,0,21961814,TRUE,22,5271368.182,1127.318,72.009,75.5,22417707.14
+178,21,80,G9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,14250,23.75,24,4076356.25,405.583,96.65,68.309,14507611.77,TRUE,22,3744650,705.864,62.665,61.78,22653897.62
+179,12,80,G9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,10412,17.353,25,3377230,263.52,75.124,63.273,24323476.25,TRUE,22,3744650,705.864,62.665,61.78,22653897.62
+177,32,80,G9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,474,0.79,0,,,,0,181950,FALSE,22,3744650,705.864,62.665,61.78,22653897.62
+178,21,80,G9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,12527,20.878,22,3768795.455,401.364,107.313,70.488,13227046.2,TRUE,22,3214940.909,613.636,64.114,63.875,24582666.67
+179,12,80,G9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,8219,13.698,27,2668529.63,197.63,71.787,64.923,10149154.21,TRUE,22,3214940.909,613.636,64.114,63.875,24582666.67
+177,32,80,G9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,389,0.648,0,,,,0,,FALSE,22,3214940.909,613.636,64.114,63.875,24582666.67
+178,21,80,G9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,25,0.042,0,,,,0,,FALSE,0,,,,,
+179,12,80,G9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,16,0.027,0,,,,0,,FALSE,0,,,,,
+177,32,80,G9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,10,0.017,0,,,,0,145374125,FALSE,0,,,,,
+178,21,80,G9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,14649,24.415,24,3999087.5,444.792,106.891,72.872,14497747.14,TRUE,22,3748145.455,750.591,66.627,67.436,22995469.05
+179,12,80,G9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,9252,15.42,27,3032857.407,235.889,73.882,68.839,29032280,TRUE,22,3748145.455,750.591,66.627,67.436,22995469.05
+177,32,80,G9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,586,0.977,0,,,,0,,TRUE,22,3748145.455,750.591,66.627,67.436,22995469.05
+178,21,80,G9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,6436,10.727,26,2069576.923,112.769,54.138,45.556,13574860.49,TRUE,0,,,,,
+179,12,80,G9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,4551,7.585,0,,,,0,38841866.67,TRUE,0,,,,,
+177,32,80,G9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,34,0.057,0,,,,0,,FALSE,0,,,,,
+163,21,93,H10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,22557,37.595,27,5668424.074,699.481,112.811,83.726,4450017.188,TRUE,22,7199068.182,2485.091,113.635,82.791,20155569.05
+164,12,93,H10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,27640,46.067,40,4951690,595.3,95.895,86.151,3198259.684,TRUE,22,7199068.182,2485.091,113.635,82.791,20155569.05
+162,32,93,H10,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,15839,26.398,21,4891973.81,599.762,123.777,79.519,5613473.512,TRUE,22,7199068.182,2485.091,113.635,82.791,20155569.05
+163,21,93,H10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,22497,37.495,32,4981320.313,574.469,101.227,81.713,3400594.361,TRUE,25,6212640,2001.56,102.269,81.077,18173106.25
+164,12,93,H10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,25803,43.005,42,4325621.429,510.452,95.596,83.087,3637848.14,TRUE,25,6212640,2001.56,102.269,81.077,18173106.25
+162,32,93,H10,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,13418,22.363,22,4158215.909,500.455,121.181,82.054,7533534.701,TRUE,25,6212640,2001.56,102.269,81.077,18173106.25
+163,21,93,H10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,21216,35.36,31,4983204.839,566.323,98.317,82.749,3706206.624,TRUE,24,6595204.167,2087.708,99.28,82.273,18281269.57
+164,12,93,H10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,26165,43.608,39,4906766.667,569.231,94.347,84.846,2987714.179,TRUE,24,6595204.167,2087.708,99.28,82.273,18281269.57
+162,32,93,H10,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,13520,22.533,21,4428940.476,533.762,121.214,82.907,7488033.588,TRUE,24,6595204.167,2087.708,99.28,82.273,18281269.57
+163,21,93,H10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,282,0.47,0,,,,0,,FALSE,0,,,,,
+164,12,93,H10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,1019,1.698,0,,,,0,841000,TRUE,0,,,,,
+162,32,93,H10,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,459,0.765,0,,,,0,1258500,FALSE,0,,,,,
+163,21,93,H10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,19785,32.975,29,4963170.69,575.069,103.204,84.291,14206742.14,TRUE,22,7039286.364,2306.409,108.278,83.044,20380619.05
+164,12,93,H10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,26739,44.565,45,4467678.889,514.289,87.863,86.551,11670721.25,TRUE,22,7039286.364,2306.409,108.278,83.044,20380619.05
+162,32,93,H10,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,14577,24.295,21,4939469.048,578.762,118.346,83.378,12953508.86,TRUE,22,7039286.364,2306.409,108.278,83.044,20380619.05
+163,21,93,H10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,18551,30.918,35,3637285.714,380,93.856,71.694,3671645.331,TRUE,25,4450718,1315.8,97.682,70.966,19327816.67
+164,12,93,H10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,15993,26.655,33,3228769.697,345.121,97.105,71.212,3904016.25,TRUE,25,4450718,1315.8,97.682,70.966,19327816.67
+162,32,93,H10,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,11809,19.682,25,3562934,353.92,98.862,74.926,6952647.917,TRUE,25,4450718,1315.8,97.682,70.966,19327816.67
+160,21,94,H11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,14826,24.71,26,5513876.923,432.538,75.536,75.853,4125353.791,TRUE,23,5957495.652,1274.913,72.224,77.439,19907284.09
+161,12,94,H11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,13046,21.743,24,4431377.083,425.875,95.245,78.346,6834083.333,TRUE,23,5957495.652,1274.913,72.224,77.439,19907284.09
+159,32,94,H11,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,9994,16.657,23,4265304.348,324.304,76.423,74.635,8549762.931,TRUE,23,5957495.652,1274.913,72.224,77.439,19907284.09
+160,21,94,H11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,11462,19.103,35,3375681.429,201.514,58.3,61.534,6700528.808,TRUE,27,3935655.556,627.593,53.551,63.308,18545465.39
+161,12,94,H11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,9860,16.433,28,3406560.714,251.75,73.631,71.491,12536499.41,TRUE,27,3935655.556,627.593,53.551,63.308,18545465.39
+159,32,94,H11,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,5444,9.073,26,1855492.308,93.808,51.902,44.802,27182380.77,TRUE,27,3935655.556,627.593,53.551,63.308,18545465.39
+160,21,94,H11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,7987,13.312,26,2861861.538,164.769,57.991,53.637,8305107.874,TRUE,25,3478502,660.28,63.948,67.118,20559183.33
+161,12,94,H11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,10403,17.338,27,3333148.148,297.074,87.881,77.103,10371980.2,TRUE,25,3478502,660.28,63.948,67.118,20559183.33
+159,32,94,H11,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,6204,10.34,25,2625498,157.44,60.314,63.443,33678653.85,TRUE,25,3478502,660.28,63.948,67.118,20559183.33
+160,21,94,H11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,20,0.033,0,,,,0,945050,FALSE,0,,,,,
+161,12,94,H11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,11,0.018,0,,,,0,784333.333,FALSE,0,,,,,
+159,32,94,H11,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,22,0.037,0,,,,0,1014900,FALSE,0,,,,,
+160,21,94,H11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,10948,18.247,27,4064307.407,282.63,68.46,69.702,10705970.92,TRUE,25,4175770,792.2,63.998,73.254,20120854.17
+161,12,94,H11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,9651,16.085,25,3524658,302.8,86.527,78.437,14468108.78,TRUE,25,4175770,792.2,63.998,73.254,20120854.17
+159,32,94,H11,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,6437,10.728,28,2493344.643,151.786,60.424,66.025,19138966.67,TRUE,25,4175770,792.2,63.998,73.254,20120854.17
+160,21,94,H11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,7081,11.802,8,1752068.75,74.625,41.771,8.431,11967465,TRUE,3,1671950,145.333,29.17,3.01,125983475
+161,12,94,H11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,5156,8.593,12,1443258.333,63.583,44.001,14.798,23740648.75,TRUE,3,1671950,145.333,29.17,3.01,125983475
+159,32,94,H11,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,2248,3.747,0,,,,0,,TRUE,3,1671950,145.333,29.17,3.01,125983475
+256,21,86,H3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,11139,18.565,17,4477717.647,529.412,118.751,80.797,6710062.585,TRUE,17,5736002.941,2019.765,117.932,81.253,29932790.63
+257,12,86,H3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,16026,26.71,18,5675252.778,744.778,128.579,83.652,5340879.942,TRUE,17,5736002.941,2019.765,117.932,81.253,29932790.63
+255,32,86,H3,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,15093,25.155,17,5846297.059,711.176,122.218,80.103,3405933.779,TRUE,17,5736002.941,2019.765,117.932,81.253,29932790.63
+256,21,86,H3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,8418,14.03,12,3685645.833,504.833,137.594,71.965,23236551.06,TRUE,12,4546858.333,1747.5,128.491,68.406,48490895.46
+257,12,86,H3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,11255,18.758,12,4716708.333,627.333,133.497,66.886,9751899.091,TRUE,12,4546858.333,1747.5,128.491,68.406,48490895.46
+255,32,86,H3,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,10982,18.303,13,4251576.923,569.769,130.051,67.447,14923190.85,TRUE,12,4546858.333,1747.5,128.491,68.406,48490895.46
+256,21,86,H3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,16939,28.232,18,4577127.778,576.944,105.624,61.308,10525010.64,TRUE,17,5304297.059,1918.824,103.46,62.506,29915553.13
+257,12,86,H3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,16803,28.005,22,4297195.455,505.273,93.68,66.155,4438193.439,TRUE,17,5304297.059,1918.824,103.46,62.506,29915553.13
+255,32,86,H3,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,18445,30.742,19,4432489.474,593.526,111.275,61.139,3914728.98,TRUE,17,5304297.059,1918.824,103.46,62.506,29915553.13
+256,21,86,H3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,23081,38.468,27,6465309.259,745.667,106.292,87.228,4209742.439,TRUE,24,8104814.583,2689.5,106.75,86.828,17345715.22
+257,12,86,H3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,23872,39.787,34,4932560.294,603.382,102.023,85.938,4129882.71,TRUE,24,8104814.583,2689.5,106.75,86.828,17345715.22
+255,32,86,H3,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,27387,45.645,31,6943527.419,782.742,104.697,88.6,2232630.172,TRUE,24,8104814.583,2689.5,106.75,86.828,17345715.22
+256,21,86,H3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,14542,24.237,15,4702466.667,659.467,141.014,68.024,10198779.38,TRUE,16,5535125,2129.813,124.933,69.255,32512103.33
+257,12,86,H3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,18045,30.075,32,3826212.5,431.938,89.531,76.597,5479786.994,TRUE,16,5535125,2129.813,124.933,69.255,32512103.33
+255,32,86,H3,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,16618,27.697,19,4785102.632,623.895,118.27,71.332,8380702.174,TRUE,16,5535125,2129.813,124.933,69.255,32512103.33
+256,21,86,H3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,9780,16.3,16,4026365.625,507.063,126.518,82.955,14251983.1,TRUE,16,4825815.625,1651.875,115.045,80.305,32335933.33
+257,12,86,H3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,11647,19.412,17,4372432.353,542.706,121.141,79.214,13537980.67,TRUE,16,4825815.625,1651.875,115.045,80.305,32335933.33
+255,32,86,H3,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,11485,19.142,16,4720250,567.25,121.656,79.025,13815984.29,TRUE,16,4825815.625,1651.875,115.045,80.305,32335933.33
+253,21,87,H4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,12052,20.087,26,2860384.615,307.231,105.871,66.279,3912034.31,TRUE,24,2603568.75,533.542,69.164,62.952,22316382.61
+254,12,87,H4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,8241,13.735,24,2449256.25,225.583,93.625,65.696,5322312.834,TRUE,24,2603568.75,533.542,69.164,62.952,22316382.61
+252,32,87,H4,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,48,0.08,0,,,,0,,FALSE,24,2603568.75,533.542,69.164,62.952,22316382.61
+253,21,87,H4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,22320,37.2,36,3959034.722,469.944,102.892,75.797,6906756.25,TRUE,24,3209841.667,790.583,83.031,61.268,22635815.22
+254,12,87,H4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,8637,14.395,24,2589708.333,254.333,98.77,70.673,12697714.37,TRUE,24,3209841.667,790.583,83.031,61.268,22635815.22
+252,32,87,H4,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,12,0.02,0,,,,0,,FALSE,24,3209841.667,790.583,83.031,61.268,22635815.22
+253,21,87,H4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,21867,36.445,32,4194734.375,508.969,107.061,74.482,5922700,TRUE,23,3331367.391,831,83.966,62.414,22821243.18
+254,12,87,H4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,8751,14.585,23,2763241.304,269.13,98.01,70.735,14438250.69,TRUE,23,3331367.391,831,83.966,62.414,22821243.18
+252,32,87,H4,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,5,0.008,0,,,,0,,FALSE,23,3331367.391,831,83.966,62.414,22821243.18
+253,21,87,H4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,18445,30.742,36,3686208.333,378.167,91.255,73.809,13187083.33,TRUE,25,3046816,660.52,73.29,60.902,20477091.67
+254,12,87,H4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,8660,14.433,25,2713720,236.96,89.29,68.406,14577484.03,TRUE,25,3046816,660.52,73.29,60.902,20477091.67
+252,32,87,H4,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,9,0.015,0,,,,0,1036958.606,FALSE,25,3046816,660.52,73.29,60.902,20477091.67
+253,21,87,H4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,20607,34.345,35,3762521.429,450.829,104.049,76.571,22975830.95,TRUE,23,3157236.957,781.13,83,62.547,22750695.46
+254,12,87,H4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,8114,13.523,23,2539132.609,242.913,96.221,68.856,23344025,TRUE,23,3157236.957,781.13,83,62.547,22750695.46
+252,32,87,H4,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,3,0.005,0,,,,0,,FALSE,23,3157236.957,781.13,83,62.547,22750695.46
+253,21,87,H4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,20834,34.723,35,3736268.571,445.743,102.963,74.882,4928593.717,TRUE,24,3020975,732.708,81.824,60.989,21751089.13
+254,12,87,H4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,7993,13.322,24,2547285.417,233.667,92.894,70.161,12138755.75,TRUE,24,3020975,732.708,81.824,60.989,21751089.13
+252,32,87,H4,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,6,0.01,0,,,,0,,FALSE,24,3020975,732.708,81.824,60.989,21751089.13
+214,21,88,H5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,29564,49.273,32,5773828.125,806.938,122.164,87.343,3446682.301,TRUE,26,6988950,2810.077,129.458,85.347,16290336
+215,12,88,H5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,21702,36.17,25,5664758,722.72,125.605,83.255,2971861.913,TRUE,26,6988950,2810.077,129.458,85.347,16290336
+213,32,88,H5,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,34340,57.233,34,5933500,880.824,126.804,87.21,2973654.669,TRUE,26,6988950,2810.077,129.458,85.347,16290336
+214,21,88,H5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,25237,42.062,38,4580630.263,579.447,109.83,87.249,8874653.153,TRUE,27,5799368.519,2095.37,117.638,84.242,16828813.46
+215,12,88,H5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,18873,31.455,26,4707461.538,593.923,125.594,81.821,6276595.223,TRUE,27,5799368.519,2095.37,117.638,84.242,16828813.46
+213,32,88,H5,5HT 100nM,5HT serotonin,20250905_5HT_100nM_R0005_4_250727_6134_40d_3_001,0,Control,23048,38.413,32,4902459.375,616.75,114.241,85.63,9737678.218,TRUE,27,5799368.519,2095.37,117.638,84.242,16828813.46
+214,21,88,H5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,28788,47.98,33,5565113.636,768.242,120.498,88.064,5016918.421,TRUE,25,7566242,2999.76,130.951,86.364,16414422.92
+215,12,88,H5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,25818,43.03,31,5210227.419,698.806,120.721,83.907,4575353.788,TRUE,25,7566242,2999.76,130.951,86.364,16414422.92
+213,32,88,H5,5HT 10nM,5HT serotonin,20250905_5HT_10nM_R0005_4_250727_6134_40d_2_001,0,Control,32229,53.715,32,6070217.188,875,126.376,86.878,4620943.583,TRUE,25,7566242,2999.76,130.951,86.364,16414422.92
+214,21,88,H5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,32323,53.872,36,5533780.556,778.417,127.29,86.697,3486428.043,TRUE,31,7286408.065,2829.161,125.763,87.787,11815601.67
+215,12,88,H5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,30072,50.12,37,5369417.568,711.162,120.068,87.5,2769955.594,TRUE,31,7286408.065,2829.161,125.763,87.787,11815601.67
+213,32,88,H5,5HT 10µM,5HT serotonin,20250905_5HT_10_M_R0005_4_250727_6134_40d_5_001,0,Control,37510,62.517,38,6569698.684,890.737,119.702,90.237,2767003.77,TRUE,31,7286408.065,2829.161,125.763,87.787,11815601.67
+214,21,88,H5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,27808,46.347,33,5708753.03,754.909,119.81,89.586,5167063.58,TRUE,26,7341071.154,2910.077,131.825,87.417,16365086
+215,12,88,H5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,26465,44.108,35,4692812.857,645.171,119.441,85.324,3746633.544,TRUE,26,7341071.154,2910.077,131.825,87.417,16365086
+213,32,88,H5,5HT 1nM,5HT serotonin,20250905_5HT_1nM_R0005_4_250727_6134_40d_1_001,0,Control,32280,53.8,31,6403856.452,914.194,130.23,87.794,3909229.861,TRUE,26,7341071.154,2910.077,131.825,87.417,16365086
+214,21,88,H5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,30588,50.98,36,5488050,751.806,120.175,88.482,3513575.778,TRUE,27,7203885.185,2926.296,136.217,86.826,15286867.31
+215,12,88,H5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,25777,42.962,32,4904101.563,680.156,129.425,84.436,3025870.246,TRUE,27,7203885.185,2926.296,136.217,86.826,15286867.31
+213,32,88,H5,5HT 1µM,5HT serotonin,20250905_5HT_1_M_R0005_4_250727_6134_40d_4_001,0,Control,34633,57.722,32,6335289.063,945.875,137.732,87.396,2654028.873,TRUE,27,7203885.185,2926.296,136.217,86.826,15286867.31
+211,21,89,H6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,15161,25.268,22,4330563.636,506.455,110.396,73.491,4515285.308,TRUE,19,5652413.158,1977.947,117.549,75.848,24938991.67
+212,12,89,H6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,18878,31.463,21,5552707.143,697.857,120.576,77.63,3542694.556,TRUE,19,5652413.158,1977.947,117.549,75.848,24938991.67
+210,32,89,H6,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,15509,25.848,21,4534221.429,566.81,120.121,76.749,4171978.365,TRUE,19,5652413.158,1977.947,117.549,75.848,24938991.67
+211,21,89,H6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,12026,20.043,19,3669584.211,425.737,113.465,67.263,18989395.28,TRUE,18,5437030.556,1798.5,108.21,70.758,26897464.71
+212,12,89,H6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,18182,30.303,24,4414429.167,535.625,105.092,70.702,11629632.32,TRUE,18,5437030.556,1798.5,108.21,70.758,26897464.71
+210,32,89,H6,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,15544,25.907,24,4058906.25,477.542,103.825,73.733,7375177.481,TRUE,18,5437030.556,1798.5,108.21,70.758,26897464.71
+211,21,89,H6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,10874,18.123,20,3327610,379.65,110.656,69.827,13914603.38,TRUE,18,4619111.111,1604.222,116.382,71.378,28343250
+212,12,89,H6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,16102,26.837,22,4087079.545,520.409,116.814,71.103,12867546.1,TRUE,18,4619111.111,1604.222,116.382,71.378,28343250
+210,32,89,H6,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,13479,22.465,22,3964465.909,468.182,110.504,76.415,8942188.426,TRUE,18,4619111.111,1604.222,116.382,71.378,28343250
+211,21,89,H6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,80,0.133,0,,,,0,108345700,FALSE,0,,,,,
+212,12,89,H6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,90,0.15,0,,,,0,,FALSE,0,,,,,
+210,32,89,H6,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,112,0.187,0,,,,0,,FALSE,0,,,,,
+211,21,89,H6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,14070,23.45,21,4220892.857,500.333,117.027,74.677,14832585.51,TRUE,20,5617672.5,1988.25,118.934,77.07,24508181.58
+212,12,89,H6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,20784,34.64,28,4649387.5,589.321,110.247,79.393,7039169.708,TRUE,20,5617672.5,1988.25,118.934,77.07,24508181.58
+210,32,89,H6,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,16742,27.903,22,4690038.636,589,121.971,77.398,6784258.333,TRUE,20,5617672.5,1988.25,118.934,77.07,24508181.58
+211,21,89,H6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,5713,9.522,11,2515627.273,323.545,129.335,62.297,26989148.72,TRUE,11,3726122.727,1313.818,117.783,59.019,50928955
+212,12,89,H6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,9817,16.362,11,3875300,519.727,134.511,58.236,13209759.38,TRUE,11,3726122.727,1313.818,117.783,59.019,50928955
+210,32,89,H6,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,8957,14.928,11,3408454.545,460.818,136.979,56.593,8503702.917,TRUE,11,3726122.727,1313.818,117.783,59.019,50928955
+208,21,90,H7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,23899,39.832,29,5268484.483,689.345,114.452,83.648,4484395.153,TRUE,22,6653954.545,2079.227,103.312,83.389,21354159.52
+209,12,90,H7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,21087,35.145,34,4212576.471,512.794,100.641,82.681,3722802.083,TRUE,22,6653954.545,2079.227,103.312,83.389,21354159.52
+207,32,90,H7,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,9869,16.448,22,3917931.818,362.091,91.428,80.717,7368103.759,TRUE,22,6653954.545,2079.227,103.312,83.389,21354159.52
+208,21,90,H7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,20613,34.355,31,4108082.258,543.161,117.034,81.686,8530271.364,TRUE,23,4884652.174,1539.652,106.354,78.43,20398104.55
+209,12,90,H7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,17417,29.028,30,3604238.333,440.333,112.043,75.845,5639764.244,TRUE,23,4884652.174,1539.652,106.354,78.43,20398104.55
+207,32,90,H7,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,7121,11.868,25,3018170,231.88,76.182,81.407,12586490.85,TRUE,23,4884652.174,1539.652,106.354,78.43,20398104.55
+208,21,90,H7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,20072,33.453,27,4622977.778,610.963,123.455,82.184,10629365.22,TRUE,23,4649671.739,1425.913,100.771,79.918,21779495.46
+209,12,90,H7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,13149,21.915,26,3248590.385,381.231,110.778,75.382,6411476.899,TRUE,23,4649671.739,1425.913,100.771,79.918,21779495.46
+207,32,90,H7,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,7816,13.027,25,3403702,269,77.133,86.041,8532170.8,TRUE,23,4649671.739,1425.913,100.771,79.918,21779495.46
+208,21,90,H7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,87,0.145,0,,,,0,9164628.409,FALSE,0,,,,,
+209,12,90,H7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,113,0.188,0,,,,0,8890051.111,FALSE,0,,,,,
+207,32,90,H7,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,65,0.108,0,,,,0,9048273.333,FALSE,0,,,,,
+208,21,90,H7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,22953,38.255,27,5155457.407,699.444,123.918,82.277,7428408.661,TRUE,22,5877986.364,1927.364,110.086,81.919,22323885.71
+209,12,90,H7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,20569,34.282,29,4814267.241,590.241,111.074,83.217,6189496.104,TRUE,22,5877986.364,1927.364,110.086,81.919,22323885.71
+207,32,90,H7,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,8239,13.732,23,3761489.13,307.652,81.916,85.884,6371909.063,TRUE,22,5877986.364,1927.364,110.086,81.919,22323885.71
+208,21,90,H7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,13480,22.467,24,3035268.75,358.583,115.875,63.843,5297213.71,TRUE,22,2957068.182,781.273,89.283,60.701,24922202.38
+209,12,90,H7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,10704,17.84,22,2827761.364,313.591,113.295,64.453,4539506.682,TRUE,22,2957068.182,781.273,89.283,60.701,24922202.38
+207,32,90,H7,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,4132,6.887,22,1419309.091,84.773,59.857,45.136,5923059.497,TRUE,22,2957068.182,781.273,89.283,60.701,24922202.38
+205,21,91,H8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,2760,4.6,3,1430533.333,53.667,36.904,5.833,18843914.29,TRUE,12,3413758.333,470.583,46.81,24.82,40347409.09
+206,12,91,H8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,15347,25.578,36,4161136.111,310.306,70.757,72.789,2862955.833,TRUE,12,3413758.333,470.583,46.81,24.82,40347409.09
+204,32,91,H8,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,4645,7.742,10,1814200,78.7,43.658,16.943,14746926.47,TRUE,12,3413758.333,470.583,46.81,24.82,40347409.09
+205,21,91,H8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,1333,2.222,0,,,,0,,TRUE,0,,,,,
+206,12,91,H8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,10417,17.362,45,2286998.889,136.422,60.235,58.933,8462861.765,TRUE,0,,,,,
+204,32,91,H8,Fluo 100nM,Fluoxeitine hydrochl.,20250905_Fluo_100nM_R0005_4_250727_6134_40d_3_001,0,Control,2253,3.755,0,,,,0,991375,TRUE,0,,,,,
+205,21,91,H8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,2248,3.747,0,,,,0,207768900,TRUE,13,3075888.462,439.846,48.146,24.212,40440820.83
+206,12,91,H8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,16381,27.302,41,3936578.049,292.659,68.324,73.249,6562256.786,TRUE,13,3075888.462,439.846,48.146,24.212,40440820.83
+204,32,91,H8,Fluo 10nM,Fluoxeitine hydrochl.,20250905_Fluo_10nM_R0005_4_250727_6134_40d_2_001,0,Control,4987,8.312,13,1653938.462,72.231,43.923,18.829,41868291.67,TRUE,13,3075888.462,439.846,48.146,24.212,40440820.83
+205,21,91,H8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,59,0.098,0,,,,0,,FALSE,0,,,,,
+206,12,91,H8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,70,0.117,0,,,,0,118600,FALSE,0,,,,,
+204,32,91,H8,Fluo 10µM,Fluoxeitine hydrochl.,20250905_Fluo_10_M_R0005_4_250727_6134_40d_5_001,0,Control,55,0.092,0,,,,0,,FALSE,0,,,,,
+205,21,91,H8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,2543,4.238,1,1356050,54,39.084,2.123,,TRUE,16,3197912.5,453.938,48.135,30.975,32130803.33
+206,12,91,H8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,16495,27.492,51,3311595.098,246.686,66.759,76.272,10463690.74,TRUE,16,3197912.5,453.938,48.135,30.975,32130803.33
+204,32,91,H8,Fluo 1nM,Fluoxeitine hydrochl.,20250905_Fluo_1nM_R0005_4_250727_6134_40d_1_001,0,Control,4410,7.35,16,1535246.875,67.75,44.064,24.58,33773570,TRUE,16,3197912.5,453.938,48.135,30.975,32130803.33
+205,21,91,H8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,158,0.263,0,,,,0,,FALSE,0,,,,,
+206,12,91,H8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,1679,2.798,0,,,,0,110683137.5,TRUE,0,,,,,
+204,32,91,H8,Fluo 1µM,Fluoxeitine hydrochl.,20250905_Fluo_1_M_R0005_4_250727_6134_40d_4_001,0,Control,191,0.318,0,,,,0,,FALSE,0,,,,,
+166,21,92,H9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,4217,7.028,1,1252650,50,39.117,1.186,12808793.48,TRUE,27,3704211.111,454.667,41.061,48.047,19153865.39
+167,12,92,H9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,11841,19.735,37,3307555.405,202.973,59.082,63.424,4044064.463,TRUE,27,3704211.111,454.667,41.061,48.047,19153865.39
+165,32,92,H9,baseline_media,baseline,20250905_baseline_media_R0005_4_25070727_6134_40d_base_001_Control,0,Control,9492,15.82,38,2245951.316,111.658,49.454,44.701,3887939.963,TRUE,27,3704211.111,454.667,41.061,48.047,19153865.39
+166,21,92,H9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,2698,4.497,0,,,,0,138966.667,TRUE,0,,,,,
+167,12,92,H9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,7746,12.91,24,1898337.5,83.5,43.626,25.871,26057580.65,TRUE,0,,,,,
+165,32,92,H9,Paro 100nM,Paroxitine hydrochl.,20250905_Paro_100nM_R0005_4_250727_6134_40d_3_001,0,Control,4767,7.945,0,,,,0,5871918.367,TRUE,0,,,,,
+166,21,92,H9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,2838,4.73,0,,,,0,5255350,TRUE,7,2033585.714,234.286,37.974,8.941,92181383.33
+167,12,92,H9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,9324,15.54,36,2568129.167,132.278,50.088,51.073,16510003.85,TRUE,7,2033585.714,234.286,37.974,8.941,92181383.33
+165,32,92,H9,Paro 10nM,Paroxitine hydrochl.,20250905_Paro_10nM_R0005_4_250727_6134_40d_2_001,0,Control,6180,10.3,8,1620675,67.75,42.311,8.77,8367087.687,TRUE,7,2033585.714,234.286,37.974,8.941,92181383.33
+166,21,92,H9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,28,0.047,0,,,,0,1889700,FALSE,0,,,,,
+167,12,92,H9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,26,0.043,0,,,,0,1005100,FALSE,0,,,,,
+165,32,92,H9,Paro 10µM,Paroxitine hydrochl.,20250905_Paro_10_M_R0005_4_250727_6134_40d_5_001,0,Control,39,0.065,0,,,,0,1344275,FALSE,0,,,,,
+166,21,92,H9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,3096,5.16,0,,,,0,,TRUE,22,3188390.909,364.318,38.468,37.559,24210385.71
+167,12,92,H9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,10554,17.59,38,3191705.263,176.658,53.099,63.606,18606360.91,TRUE,22,3188390.909,364.318,38.468,37.559,24210385.71
+165,32,92,H9,Paro 1nM,Paroxitine hydrochl.,20250905_Paro_1nM_R0005_4_250727_6134_40d_1_001,0,Control,7690,12.817,27,1777692.593,85.296,47.947,29.948,7504762.925,TRUE,22,3188390.909,364.318,38.468,37.559,24210385.71
+166,21,92,H9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,1257,2.095,0,,,,0,,TRUE,0,,,,,
+167,12,92,H9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,1774,2.957,0,,,,0,,TRUE,0,,,,,
+165,32,92,H9,Paro 1µM,Paroxitine hydrochl.,20250905_Paro_1_M_R0005_4_250727_6134_40d_4_001,0,Control,1399,2.332,0,,,,0,6355900,TRUE,0,,,,,
