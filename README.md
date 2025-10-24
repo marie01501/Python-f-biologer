@@ -10,18 +10,20 @@ For each compound is a seperate plot created and all plots are saved in a folder
 python get_NB_count_plot.py test_data_dose_response.csv
 
 ## Arguments
+I used the python version Python 3.13.5 for my script.
 Pass the input file you want to use (test_data_dose_response.csv) to the command line.
 To run the script please download the following modules:
-* pandas
-* matplotlib.pyplot
-* matplotlib.ticker
-* seaborn 
-* sys, os, and re
-* numpy
-* curve_fit from scipy_optimize
+* pandas 2.3.2
+* matplotlib.pyplot (matplotlib 3.10.6)
+* matplotlib.ticker (matplotlib 3.10.6)
+* seaborn 0.13.2
+* sys, os, and re (built-in module in Python 3.13.5)
+* numpy 2.3.2
+* curve_fit from scipy_optimize 1.16.2
 
 ## Test Data
 I added a file called test_data_dose_response.csv to my project. Please make sure that you have the python script and the test_data_dose_response.csv in the same folder if you want to run the program.
 
 ## Output
+
 The output is a folder called _plots_ that includes a normalized plot for each compound I tested. In addition to that, you will also get 3 new csv files: one for the mean Network Burst count + the normalization (called test_data_mean_NB_count.csv), one for the results of the mean, SD and %CV (called test_data_normalized_NB_stats.csv) and one for the curve fitting results (called test_data_NB_EC50_results.csv).
